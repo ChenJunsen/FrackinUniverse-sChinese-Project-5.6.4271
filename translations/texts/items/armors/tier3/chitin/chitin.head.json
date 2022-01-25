@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/tier3/chitin/chitin.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "甲壳头盔",
+      "Eng": "Chitin Helm"
+    }
+  }
+]

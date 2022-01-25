@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/elderbaseboard.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/elderbaseboard.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "远古面板",
+      "Eng": "Elder Baseboard"
+    }
+  }
+]

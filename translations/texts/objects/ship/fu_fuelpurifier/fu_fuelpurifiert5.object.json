@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/fu_fuelpurifier/fu_fuelpurifiert5.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Exceptionally effective. Reduces fuel cost by ^green;40^reset;%"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/fu_fuelpurifier/fu_fuelpurifiert5.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "^cyan;先驱燃料净化器^reset;",
+      "Eng": "^cyan;Precursor Fuel Purifier^reset;"
+    }
+  }
+]

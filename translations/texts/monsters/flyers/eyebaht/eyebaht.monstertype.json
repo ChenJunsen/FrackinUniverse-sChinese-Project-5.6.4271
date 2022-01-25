@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/flyers/eyebaht/eyebaht.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "一种奇怪的影子住民",
+      "Eng": "A strange shadowy denizen"
+    }
+  }
+]

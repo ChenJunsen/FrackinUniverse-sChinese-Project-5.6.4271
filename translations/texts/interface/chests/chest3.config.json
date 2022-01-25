@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/chests/chest3.config": [
+        "/gui/count/value"
+      ]
+    },
+    "Texts": {
+      "Chs": "3格",
+      "Eng": "3 SLOTS"
+    }
+  }
+]

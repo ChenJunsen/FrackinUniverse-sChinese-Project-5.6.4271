@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/boneyflesh.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "多骨的肉",
+      "Eng": "Bony Flesh"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/boneyflesh.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "这远远超出了我的承受能力，太恐怖了！",
+      "Eng": "This goes well beyond creepy."
+    }
+  }
+]

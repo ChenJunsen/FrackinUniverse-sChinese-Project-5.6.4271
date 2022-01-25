@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/underground/moonshadowunderground.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Chs": "暗影卫星地层",
+      "Eng": "moonshadowunderground"
+    }
+  }
+]

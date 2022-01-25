@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/minibiome/honey/fuhoneybarrel/fuhoneybarrel.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "这个桶正等着被蜂蜜填满。",
+      "Eng": "A barrel just waiting to be filled with honey."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/minibiome/honey/fuhoneybarrel/fuhoneybarrel.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "蜂蜜桶",
+      "Eng": "Honey Barrel"
+    }
+  }
+]

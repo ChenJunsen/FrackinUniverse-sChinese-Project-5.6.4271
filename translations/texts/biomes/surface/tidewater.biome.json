@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/tidewater.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Chs": "多岩潮汐",
+      "Eng": "Rocky Tidewater"
+    }
+  }
+]

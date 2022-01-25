@@ -1,0 +1,15 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "bees/bees/stalwart_drone.item": [
+        "/description",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "忠诚工蜂",
+      "Eng": "Stalwart Drone"
+    }
+  }
+]

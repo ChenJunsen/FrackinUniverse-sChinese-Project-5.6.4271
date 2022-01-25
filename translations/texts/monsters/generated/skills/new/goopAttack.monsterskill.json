@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/generated/skills/new/goopAttack.monsterskill": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "*飞溅*",
+      "Eng": "SPATTER"
+    }
+  }
+]

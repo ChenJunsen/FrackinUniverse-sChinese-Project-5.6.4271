@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/farm/woodstorage/fuwoodstorage.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "木材储存箱",
+      "Eng": "Wood Storage"
+    }
+  }
+]

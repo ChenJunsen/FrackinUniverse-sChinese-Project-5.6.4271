@@ -1,0 +1,27 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberscience.npctype": [
+        "/scriptConfig/crew/role/field"
+      ]
+    },
+    "Texts": {
+      "Chs": "生物学家",
+      "Eng": "Biochemistry"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberscience.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Chs": "当我在船上时，我可以帮到你！",
+      "Eng": "I'll give you a boost whenever we're on the ship!"
+    }
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/fulegacyscripts/ground/skills/meleeattack.monsterskill": [
+        "/label"
+      ],
+      "monsters/skills/ground/fusoundmeleeattack.monsterskill": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "*猛击*",
+      "Eng": "BASH"
+    }
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "bees/bees/scoria_drone.item": [
+        "/description",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "矿渣工蜂",
+      "Eng": "Scoria Drone"
+    }
+  }
+]

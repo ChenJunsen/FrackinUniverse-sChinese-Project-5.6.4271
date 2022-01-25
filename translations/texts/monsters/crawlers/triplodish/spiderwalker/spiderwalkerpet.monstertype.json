@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/crawlers/triplodish/spiderwalker/spiderwalkerpet.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "激光机器人",
+      "Eng": "Laserbot"
+    }
+  }
+]

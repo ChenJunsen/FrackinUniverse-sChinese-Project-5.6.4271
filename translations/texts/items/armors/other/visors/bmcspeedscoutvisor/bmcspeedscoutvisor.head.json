@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/visors/bmcspeedscoutvisor/bmcspeedscoutvisor.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "侦察员面具(奔跑向)",
+      "Eng": "Speed Scout Visor"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/visors/bmcspeedscoutvisor/bmcspeedscoutvisor.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "这个由黑市改造的侦察护具可以让使用者^green;跑得更快^reset;。",
+      "Eng": "This black market modified scout headset has the integrated ability to allow the user to ^green;run faster^reset;."
+    }
+  }
+]

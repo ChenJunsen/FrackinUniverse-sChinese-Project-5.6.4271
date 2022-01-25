@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/underground/atropusunderground.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Chs": "阿托罗斯深渊",
+      "Eng": "Atropus depths"
+    }
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/nightarsplatform.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "夜族平台",
+      "Eng": "Nightar Platform"
+    }
+  }
+]

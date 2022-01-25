@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/heal/healingpenalty2.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "降低20%的治疗强度。",
+      "Eng": "Reduces incoming healing by 20%."
+    }
+  }
+]

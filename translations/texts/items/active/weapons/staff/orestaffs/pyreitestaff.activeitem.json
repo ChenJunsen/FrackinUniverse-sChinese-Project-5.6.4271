@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/staff/orestaffs/pyreitestaff.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "普朗克温度",
+      "Eng": "Planc Temperature"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/staff/orestaffs/pyreitestaff.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "永燃法杖",
+      "Eng": "Pyreite Staff"
+    }
+  }
+]

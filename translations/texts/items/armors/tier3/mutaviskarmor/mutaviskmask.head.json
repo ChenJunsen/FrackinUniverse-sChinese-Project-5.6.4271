@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/tier3/mutaviskarmor/mutaviskmask.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "飞螳面具",
+      "Eng": "Mutavisk Mask"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/tier3/mutaviskarmor/mutaviskmask.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "^cyan;免疫: 致命辐射^reset;",
+      "Eng": "^cyan;Immune: Deadly Radiation^reset;"
+    }
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/passive/trolllighteffect.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "巨魔 - 夜行",
+      "Eng": "Troll- Nocturnal"
+    }
+  }
+]

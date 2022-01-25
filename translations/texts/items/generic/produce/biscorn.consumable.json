@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/biscorn.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "^yellow;^reset;^cyan;+5 HP^reset;,^cyan;+6 EP^reset;: 3m",
+      "Eng": "^yellow;^reset;^cyan;+5 HP^reset;,^cyan;+6 EP^reset;: 3m"
+    }
+  }
+]

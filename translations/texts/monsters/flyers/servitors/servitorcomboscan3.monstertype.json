@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/flyers/servitors/servitorcomboscan3.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "组合扫描器 MK III",
+      "Eng": "Combo Scanner mkIII"
+    }
+  }
+]

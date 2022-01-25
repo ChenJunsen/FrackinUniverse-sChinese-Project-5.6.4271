@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/avikanspiceplant/avikanspiceplantseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/avikanspiceplant/wildavikanspiceplantseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "卡达文香料果种子",
+      "Eng": "Kadavan Spice Seed"
+    }
+  }
+]

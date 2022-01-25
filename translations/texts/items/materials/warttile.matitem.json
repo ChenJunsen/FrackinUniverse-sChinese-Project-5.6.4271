@@ -1,0 +1,50 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/warttile.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "一大块紫色的瘤，似乎已经长得比它原来还要大了。",
+      "Eng": "A chunk of purple warts, seemingly growing out of itself."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/warttile.matitem": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Chs": "一块黏黏的瘤。",
+      "Eng": "A chunk of slimy warts."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/warttile.matitem": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "黏黏的瘤瘤瘤块。",
+      "Eng": "Slimy wartsss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/warttile.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "瘤块",
+      "Eng": "Warts"
+    }
+  }
+]

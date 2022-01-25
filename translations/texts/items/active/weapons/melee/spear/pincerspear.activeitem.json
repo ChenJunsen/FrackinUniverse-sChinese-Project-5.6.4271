@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/spear/pincerspear.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "双面刀片，双倍快乐。\n^cyan;狩猎武器^reset;",
+      "Eng": "A two-sided blade for twice the fun.\n^cyan;Hunting weapon^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/spear/pincerspear.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "钳状长矛",
+      "Eng": "Pincer Spear"
+    }
+  }
+]

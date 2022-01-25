@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/generated/skills/new/flamingAuraAttack.monsterskill": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "*火焰瘴气*",
+      "Eng": "FIRE MIASMA"
+    }
+  }
+]

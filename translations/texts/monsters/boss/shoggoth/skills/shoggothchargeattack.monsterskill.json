@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/boss/shoggoth/skills/shoggothchargeattack.monsterskill": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "Choo choo",
+      "Eng": "Choo choo"
+    }
+  }
+]

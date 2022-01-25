@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/pixelgoods/fuokeahitechfridge.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "高科技冰箱",
+      "Eng": "Hi-tech Fridge"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/pixelgoods/fuokeahitechfridge.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "储藏你的食物，避免腐烂。",
+      "Eng": "Preserves your food in a miniature stasis capsule for thousands of years"
+    }
+  }
+]

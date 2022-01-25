@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/leafshell.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "^yellow;^reset;^cyan;+4 ^cyan;防御^reset;: 3m",
+      "Eng": "^yellow;^reset;^cyan;+4 ^cyan;Defense^reset;: 3m"
+    }
+  }
+]

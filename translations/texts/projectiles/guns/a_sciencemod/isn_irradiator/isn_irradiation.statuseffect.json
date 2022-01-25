@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "projectiles/guns/a_sciencemod/isn_irradiator/isn_irradiation.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "辐射",
+      "Eng": "Irradiation"
+    }
+  }
+]

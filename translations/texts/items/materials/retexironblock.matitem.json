@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/retexironblock.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "一块用钨制成的方块。",
+      "Eng": "A techy block of tungsten."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/retexironblock.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "钨科技方块",
+      "Eng": "Tungsten Tech Block"
+    }
+  }
+]

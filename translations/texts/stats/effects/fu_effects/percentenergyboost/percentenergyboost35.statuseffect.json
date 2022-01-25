@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/fu_effects/percentenergyboost/percentenergyboost35.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "35% 最大能量提升",
+      "Eng": "35% More Energy"
+    }
+  }
+]

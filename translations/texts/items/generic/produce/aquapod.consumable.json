@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/aquapod.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "水荚",
+      "Eng": "Aquapod Bulb"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/aquapod.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "^yellow;^reset;^cyan;强力游泳加速^reset;: 2m",
+      "Eng": "^yellow;^reset;^cyan;Powerful Swim Boost^reset;: 2m"
+    }
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/flyers/futinybee/futinybee/futinybee.monstertype": [
+        "/shortdescription"
+      ],
+      "monsters/flyers/futinybee/futinybeered/futinybeered.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "蜜蜂",
+      "Eng": "Bee"
+    }
+  }
+]

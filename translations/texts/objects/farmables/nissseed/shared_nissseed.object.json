@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/nissseed/nissseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/nissseed/wildnissseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "尼斯花种子",
+      "Eng": "Niss Seed"
+    }
+  }
+]

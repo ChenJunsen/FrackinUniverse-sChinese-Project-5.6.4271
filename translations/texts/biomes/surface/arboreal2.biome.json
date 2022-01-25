@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/arboreal2.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Chs": "火山原始森林",
+      "Eng": "Volcanic Primeval Forest"
+    }
+  }
+]

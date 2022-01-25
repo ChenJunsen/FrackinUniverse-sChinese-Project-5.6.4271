@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/mireurchin/mireurchinseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/mireurchin/wildmireurchinseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "沼泽海胆种子",
+      "Eng": "Mireurchin Seed"
+    }
+  }
+]

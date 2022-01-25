@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/mods/penumbragrass.matmod": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "半影草",
+      "Eng": "Umbral grass"
+    }
+  }
+]

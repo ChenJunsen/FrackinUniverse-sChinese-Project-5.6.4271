@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/other/minersclaw.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "挖掘爪",
+      "Eng": "Mining Claws"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/other/minersclaw.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "使用经过特殊适应的爪子进行挖掘。\n使用：^green;[F]^reset;",
+      "Eng": "Use ^green;[F]^reset; to dig with specially adapted claws."
+    }
+  }
+]

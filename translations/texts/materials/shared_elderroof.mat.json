@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/elderroof.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/elderroof.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "远古屋顶",
+      "Eng": "Elder Roofing"
+    }
+  }
+]

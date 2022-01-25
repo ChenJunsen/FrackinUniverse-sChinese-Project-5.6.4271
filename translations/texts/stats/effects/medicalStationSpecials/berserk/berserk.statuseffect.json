@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/medicalStationSpecials/berserk/berserk.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "^orange;[E]^reset;狂战士之怒",
+      "Eng": "^orange;[E]^reset; Berserker Rage"
+    }
+  }
+]

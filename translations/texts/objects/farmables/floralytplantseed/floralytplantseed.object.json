@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/floralytplantseed/floralytplantseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "小碎花种子",
+      "Eng": "Floralyt Seed"
+    }
+  }
+]

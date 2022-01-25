@@ -1,0 +1,15 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "bees/bees/redbanded_queen.item": [
+        "/description",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "红缎蜂后",
+      "Eng": "Red-Banded Queen"
+    }
+  }
+]

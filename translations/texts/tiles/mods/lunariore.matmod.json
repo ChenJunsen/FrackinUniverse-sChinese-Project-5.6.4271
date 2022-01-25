@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/mods/lunariore.matmod": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "月晶",
+      "Eng": "lunari crystal"
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/tier4/fieldscience/fieldscientisthead2.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "地质学家的防御眼镜",
+      "Eng": "Geologist's Hardy Goggles"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/tier4/fieldscience/fieldscientisthead2.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "不仅提高视力，而且还提高防御。",
+      "Eng": "Vision enhancement replaced with defense boost."
+    }
+  }
+]

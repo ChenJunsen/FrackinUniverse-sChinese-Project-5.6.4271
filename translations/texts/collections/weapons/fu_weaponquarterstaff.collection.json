@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/weapons/fu_weaponquarterstaff.collection": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Chs": "[FU] 杆位",
+      "Eng": "[FU] Pole Position"
+    }
+  }
+]

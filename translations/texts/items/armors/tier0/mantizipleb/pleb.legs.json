@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/tier0/mantizipleb/pleb.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "平民的下装和凉鞋。赋予 ^green;0.5^reset;% HP恢复.",
+      "Eng": "A commoner's skirt and sandals. Gives ^green;0.5^reset;% Health regeneration."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/tier0/mantizipleb/pleb.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "平民下装",
+      "Eng": "Plebeian Skirt"
+    }
+  }
+]

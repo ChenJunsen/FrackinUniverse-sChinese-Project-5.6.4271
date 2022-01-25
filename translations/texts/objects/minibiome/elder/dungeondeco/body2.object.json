@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/minibiome/elder/dungeondeco/body2.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "这个尸体死前被撕成了碎片。",
+      "Eng": "This body looks to have been torn to shreds prior to death"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/minibiome/elder/dungeondeco/body2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "古老的断裂残骸",
+      "Eng": "ancient mangled corpse"
+    }
+  }
+]

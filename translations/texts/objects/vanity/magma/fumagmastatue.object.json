@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/vanity/magma/fumagmastatue.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "令人难以置信的雕像，似乎来自地狱。",
+      "Eng": "Incredibly forboding, yet classy as hell."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/vanity/magma/fumagmastatue.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "岩浆雕像",
+      "Eng": "Magma Statue"
+    }
+  }
+]

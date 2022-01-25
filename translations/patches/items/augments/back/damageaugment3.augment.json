@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/augments/back/damageaugment3.augment": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An EPP module that grants: Damage x^green;1.15^reset;"
+    }
+  }
+]

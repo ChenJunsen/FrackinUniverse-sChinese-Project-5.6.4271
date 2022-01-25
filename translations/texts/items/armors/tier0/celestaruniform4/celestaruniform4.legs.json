@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/tier0/celestaruniform4/celestaruniform4.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "精英下装",
+      "Eng": "Elite Pants"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/tier0/celestaruniform4/celestaruniform4.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "令人惊叹。 +^green;5^reset;% 魅力.",
+      "Eng": "Stunning. +^green;5^reset;% Charisma."
+    }
+  }
+]

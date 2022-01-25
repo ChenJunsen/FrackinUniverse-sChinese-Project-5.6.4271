@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/scythe/fuatropusscythe.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "这把武器虽然有些恶心，却能造成致命的伤害。\n^yellow;有毒的^reset;",
+      "Eng": "Repulsive, yet deadly.\n^cyan;Poisonous^reset;"
+    }
+  }
+]

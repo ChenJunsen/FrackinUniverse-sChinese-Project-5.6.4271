@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface_detached/snowyforest.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Chs": "冬季沼泽",
+      "Eng": "Winter Glade"
+    }
+  }
+]

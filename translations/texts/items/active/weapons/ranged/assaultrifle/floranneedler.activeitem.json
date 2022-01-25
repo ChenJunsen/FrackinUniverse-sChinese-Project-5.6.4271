@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/assaultrifle/floranneedler.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "射出淬毒的飞镖。",
+      "Eng": "Ejects poison-tipped darts."
+    }
+  }
+]

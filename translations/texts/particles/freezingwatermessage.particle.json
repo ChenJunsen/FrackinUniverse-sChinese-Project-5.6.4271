@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "particles/freezingwatermessage.particle": [
+        "/definition/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "^shadow;冻结！",
+      "Eng": "^shadow;Freezing!"
+    }
+  }
+]

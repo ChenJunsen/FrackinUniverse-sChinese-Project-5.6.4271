@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/flyers/sentryminidrone1/sentryminidrone1.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "漂浮，发光。",
+      "Eng": "Floats and glows."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/flyers/sentryminidrone1/sentryminidrone1.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "发光无人机",
+      "Eng": "Light Drone"
+    }
+  }
+]

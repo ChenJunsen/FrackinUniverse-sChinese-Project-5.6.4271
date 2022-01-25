@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/aetherseafloor.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Chs": "以太海海底",
+      "Eng": "Aether Sea Floor"
+    }
+  }
+]

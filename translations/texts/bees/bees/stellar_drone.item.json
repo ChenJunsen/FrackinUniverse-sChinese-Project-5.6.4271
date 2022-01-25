@@ -1,0 +1,15 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "bees/bees/stellar_drone.item": [
+        "/description",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "恒星工蜂",
+      "Eng": "Stellar Drone"
+    }
+  }
+]

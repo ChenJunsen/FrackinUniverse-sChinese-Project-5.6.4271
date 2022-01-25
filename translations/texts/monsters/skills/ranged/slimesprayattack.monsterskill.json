@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/skills/ranged/slimesprayattack.monsterskill": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "*黏液飞溅*",
+      "Eng": "SLIME SPLATTER"
+    }
+  }
+]

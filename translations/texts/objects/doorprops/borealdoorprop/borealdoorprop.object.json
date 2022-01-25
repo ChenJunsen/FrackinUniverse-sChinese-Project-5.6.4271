@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/doorprops/borealdoorprop/borealdoorprop.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "北风门",
+      "Eng": "Boreal Door Prop"
+    }
+  }
+]

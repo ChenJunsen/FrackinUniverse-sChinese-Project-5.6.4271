@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/backitems/poisonprotection/poisonprotection2.back": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "对探索^red;中等毒素^reset;行星有助。。\n^cyan;毒素抗性+40%^reset;，+25秒氧气，且呼吸速率减半。",
+      "Eng": "Gives +40% Poison Resist. Use it on planets with ^red;moderate poison levels^reset;. +25s oxygen and halves how quickly you breathe."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/backitems/poisonprotection/poisonprotection2.back": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "祛毒EPP II",
+      "Eng": "Poison EPP II"
+    }
+  }
+]

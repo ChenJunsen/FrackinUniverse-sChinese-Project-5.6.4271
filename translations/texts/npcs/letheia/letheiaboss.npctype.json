@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/letheia/letheiaboss.npctype": [
+        "/scriptConfig/dialog/attack/hylotl/default/0"
+      ]
+    },
+    "Texts": {
+      "Chs": "噢，天呐，更多的客人！",
+      "Eng": "Oh my! More guests!"
+    }
+  }
+]

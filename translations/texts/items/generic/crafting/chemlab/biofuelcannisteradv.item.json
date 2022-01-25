@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/chemlab/biofuelcannisteradv.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "一种优秀的生物燃料。\n^blue;+^white;15^blue;燃料^reset;",
+      "Eng": "A superior biofuel.\n^blue;+^white;15 ^blue;Fuel^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/chemlab/biofuelcannisteradv.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "埃里西安藻豆荚燃料罐",
+      "Eng": "Erithian Biofuel Canister"
+    }
+  }
+]

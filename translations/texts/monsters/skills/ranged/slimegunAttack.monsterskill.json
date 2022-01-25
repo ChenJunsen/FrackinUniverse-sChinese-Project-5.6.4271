@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/skills/ranged/slimegunAttack.monsterskill": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "*黏液爆发*",
+      "Eng": "SLIME BLAST"
+    }
+  }
+]

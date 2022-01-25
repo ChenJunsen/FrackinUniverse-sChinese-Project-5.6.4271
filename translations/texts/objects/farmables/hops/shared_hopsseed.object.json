@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/hops/hopsseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/hops/wildhopsseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "啤酒花种子",
+      "Eng": "Hops Seed"
+    }
+  }
+]

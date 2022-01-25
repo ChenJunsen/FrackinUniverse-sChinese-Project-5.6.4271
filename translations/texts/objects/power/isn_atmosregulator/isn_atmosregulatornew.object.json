@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/power/isn_atmosregulator/isn_atmosregulatornew.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "这个装置可以生成抵抗周围环境的立场。^cyan;需要^orange;120W^cyan;电力^reset;。",
+      "Eng": "Generates a field that protects against environmental hazards. Requires 120W of power."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/power/isn_atmosregulator/isn_atmosregulatornew.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "^cyan;大气调节器^reset;",
+      "Eng": "^cyan;Atmospheric Regulator^reset;"
+    }
+  }
+]

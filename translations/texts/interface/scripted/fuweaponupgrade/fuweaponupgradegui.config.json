@@ -1,0 +1,61 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/fuweaponupgrade/fuweaponupgradegui.config": [
+        "/gui/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Chs": " 先驱熔炉",
+      "Eng": " Precursor Crucible"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/fuweaponupgrade/fuweaponupgradegui.config": [
+        "/gui/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Chs": " 升级绝大部分装备",
+      "Eng": " Upgrade most equipment"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/fuweaponupgrade/fuweaponupgradegui.config": [
+        "/gui/essenceCost/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "0 / -- (--)"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/fuweaponupgrade/fuweaponupgradegui.config": [
+        "/gui/warningLabel/value"
+      ]
+    },
+    "Texts": {
+      "Chs": "已装备的物品无法升级。",
+      "Eng": "Equipped items cannot be upgraded."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/fuweaponupgrade/fuweaponupgradegui.config": [
+        "/gui/essenceCostDescription/value"
+      ]
+    },
+    "Texts": {
+      "Chs": "需要远古精华",
+      "Eng": "REQUIRED ESSENCE"
+    }
+  }
+]

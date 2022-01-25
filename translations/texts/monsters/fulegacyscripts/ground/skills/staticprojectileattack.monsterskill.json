@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/fulegacyscripts/ground/skills/staticprojectileattack.monsterskill": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "*请叫我凯文*",
+      "Eng": "HELLO CALL ME KELVIN"
+    }
+  }
+]

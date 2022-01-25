@@ -1,0 +1,15 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "bees/bees/sandprowler_queen.item": [
+        "/description",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "潜沙蜂后",
+      "Eng": "Sandprowler Queen"
+    }
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "bees/bees/gelidburrower_queen.item": [
+        "/description",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "冰掘蜂后",
+      "Eng": "Gelid Burrower Queen"
+    }
+  }
+]

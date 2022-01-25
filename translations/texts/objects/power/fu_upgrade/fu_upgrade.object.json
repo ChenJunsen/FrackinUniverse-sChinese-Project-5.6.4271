@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/power/fu_upgrade/fu_upgrade.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "什么都不能干。",
+      "Eng": "Does nothing at all."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/power/fu_upgrade/fu_upgrade.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "^cyan;我已损坏，你还要继续？^white;",
+      "Eng": "^cyan;I'm broken. Why U Spawn?^white;"
+    }
+  }
+]

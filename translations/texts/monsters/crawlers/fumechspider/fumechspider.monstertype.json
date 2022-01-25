@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/crawlers/fumechspider/fumechspider.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "机械蛛MkI",
+      "Eng": "Spider MkI"
+    }
+  }
+]

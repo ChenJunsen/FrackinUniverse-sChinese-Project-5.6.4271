@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/precursordecorative.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "先驱符文瓦片",
+      "Eng": "Precursor Rune Tile"
+    }
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/fu_upgradetable/fu_upgradetable.object": [
+        "/description"
+      ],
+      "objects/crafting/miningbench/miningbench.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "可以用来升级武器、装甲和各种工具(^green;采矿激光, 机甲修复枪, 捕虫网^reset;)。",
+      "Eng": "Can be used to upgrade weapons, armor, and various tools (^green;Mining Laser, Mech Repair Gun, Bug Net^reset;)."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/sproutingtable/sproutingtable.object": [
+        "/subtitle"
+      ],
+      "objects/crafting/xenostation/xenolab.object": [
+        "/subtitle"
+      ]
+    },
+    "Texts": {
+      "Chs": "种子萃取",
+      "Eng": "Seed Extractor"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/fu_upgradetable/fu_upgradetable.object": [
+        "/shortdescription"
+      ],
+      "objects/crafting/miningbench/miningbench.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "^cyan;升级工作站^white;",
+      "Eng": "^cyan;Upgrade Table^white;"
+    }
+  }
+]

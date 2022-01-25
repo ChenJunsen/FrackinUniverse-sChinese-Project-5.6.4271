@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/nailery/naileryseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/nailery/wildnaileryseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "射钉草种子",
+      "Eng": "Nailery Seed"
+    }
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/genesiberry/genesiberryseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "杰内西浆果种子",
+      "Eng": "Genesiberry Seed"
+    }
+  }
+]

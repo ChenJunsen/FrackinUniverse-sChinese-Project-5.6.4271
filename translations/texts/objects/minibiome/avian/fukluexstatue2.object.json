@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/minibiome/avian/fukluexstatue2.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "一个残破的克鲁西斯雕像。",
+      "Eng": "A broken statue of the avian god Kluex"
+    }
+  }
+]

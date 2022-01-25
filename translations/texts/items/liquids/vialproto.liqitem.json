@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/liquids/vialproto.liqitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "一定量的液态原体矿。",
+      "Eng": "A measure of liquid protocite."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/liquids/vialproto.liqitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "原体液",
+      "Eng": "Liquid Protocite"
+    }
+  }
+]

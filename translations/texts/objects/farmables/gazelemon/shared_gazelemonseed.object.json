@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/gazelemon/gazelemonseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/gazelemon/wildgazelemonseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "眼球柠檬种子",
+      "Eng": "Gazelemon Seed"
+    }
+  }
+]

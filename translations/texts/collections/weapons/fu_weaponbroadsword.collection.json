@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/weapons/fu_weaponbroadsword.collection": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Chs": "[FU] 测量竞赛优胜者",
+      "Eng": "[FU] Measuring Contest Winners"
+    }
+  }
+]

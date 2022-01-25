@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/paralysis/fuparalysis.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/paralysis/paralysis.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "瘫痪",
+      "Eng": "Paralyzed"
+    }
+  }
+]

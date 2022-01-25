@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/tentacleproduce.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "扭藤",
+      "Eng": "Tentacles"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/tentacleproduce.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "^yellow;^reset;^cyan;200%物理反伤^reset;: 1m",
+      "Eng": "^yellow;^reset;^cyan;200% Physical Thorns^reset;: 1m"
+    }
+  }
+]

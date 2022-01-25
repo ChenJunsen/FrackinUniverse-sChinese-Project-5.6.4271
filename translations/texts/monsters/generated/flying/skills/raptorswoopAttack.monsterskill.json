@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/generated/flying/skills/raptorswoopAttack.monsterskill": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "*重扑*",
+      "Eng": "HEAVY SWOOP"
+    }
+  }
+]

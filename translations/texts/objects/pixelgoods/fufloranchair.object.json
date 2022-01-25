@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/pixelgoods/fufloranchair.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "多叶扶手椅",
+      "Eng": "Leafy Armchair"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/pixelgoods/fufloranchair.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "原来把屁股放上去是这么的舒服啊！",
+      "Eng": "Never before have your butt cheeks rested on something so comfortable."
+    }
+  }
+]

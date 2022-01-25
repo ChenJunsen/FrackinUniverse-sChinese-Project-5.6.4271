@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/other/xi_bulb.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "按住^green;[Down]^reset;键以产生一个辐射球茎。\n激活：^green;[F]^reset;",
+      "Eng": "Hold [Down] to produce a Rad Bulb. ^green;[F]^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/other/xi_bulb.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "艾肯辐射球茎",
+      "Eng": "X'ian Radbulb"
+    }
+  }
+]

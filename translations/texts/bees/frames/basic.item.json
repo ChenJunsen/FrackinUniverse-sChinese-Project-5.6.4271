@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "bees/frames/basic.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "基本的蜂房框巢。",
+      "Eng": "Basic frame for an apiary."
+    }
+  }
+]

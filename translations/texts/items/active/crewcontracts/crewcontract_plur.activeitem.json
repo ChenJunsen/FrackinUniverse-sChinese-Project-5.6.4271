@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/crewcontracts/crewcontract_plur.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "合同：PLUR",
+      "Eng": "PLUR Contract"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/crewcontracts/crewcontract_plur.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The danciest companion in the universe, with booze and 4% reduced fuel costs."
+    }
+  }
+]

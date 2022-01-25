@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/tooltips/armornew.tooltip": [
+        "/levelLabelTitle/value"
+      ]
+    },
+    "Texts": {
+      "Chs": "等级",
+      "Eng": "Level"
+    }
+  }
+]

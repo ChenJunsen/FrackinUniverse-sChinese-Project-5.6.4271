@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/pixelcompressor/hypercompressor.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "即时压缩像素或研究点数并进行存储，代价甚微。",
+      "Eng": "Compress pixels and research for storage instantly, for a small fee."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/pixelcompressor/hypercompressor.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "^orange;究极压缩机^white;",
+      "Eng": "^orange;Hyper Compressor^white;"
+    }
+  }
+]

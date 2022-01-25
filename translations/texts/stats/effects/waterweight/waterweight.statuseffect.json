@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/waterweight/waterweight.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "水压",
+      "Eng": "Water Weight"
+    }
+  }
+]

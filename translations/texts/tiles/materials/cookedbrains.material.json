@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/cookedbrains.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "煮熟的脑子",
+      "Eng": "Cooked brains"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/cookedbrains.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "嗯，*咂嘴*，好吃。",
+      "Eng": "Mmm. Delicious."
+    }
+  }
+]

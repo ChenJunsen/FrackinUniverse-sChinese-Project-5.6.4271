@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/walkers/golemish/futoxicgolem/futoxicgolem.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "毒性魔像",
+      "Eng": "Toxic Beast"
+    }
+  }
+]

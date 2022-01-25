@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/tetherhookseed/tetherhookseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "绳钩草种子",
+      "Eng": "Tetherhook Weed"
+    }
+  }
+]

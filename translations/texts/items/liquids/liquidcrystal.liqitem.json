@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/liquids/liquidcrystal.liqitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "一定量的液化水晶。\n^green;生长速率x^white;2.5^gray;&^green;+^white;2^green;产量。\n^cyan;-^white;1^cyan;种子消耗^reset;",
+      "Eng": "A measure of liquified crystals.\n^green;Growth Rate x^white;2.5 ^gray;& ^green;+^white;2 ^green;produce.\n^cyan;-^white;1 ^cyan;seed use^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/liquids/liquidcrystal.liqitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "液化水晶",
+      "Eng": "Liquified Crystal"
+    }
+  }
+]

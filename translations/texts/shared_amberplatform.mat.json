@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/amberplatform.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/amberplatform.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "琥珀平台",
+      "Eng": "Amber Platform"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/thelusian/Thelusianceilingmonitor/thelusianceilingmonitor.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A creepy monitor made of bio-mechanical materials."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/thelusian/Thelusianceilingmonitor/thelusianceilingmonitor.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thelusian Ceiling Display"
+    }
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/crew/scienceparkanpc/sciencefunpc.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "配备有完全的空气过滤面罩，以及内置的再呼吸装置。\n^cyan;免疫气体和窒息^reset;",
+      "Eng": "Fully featured gas filtration mask with built-in re-breather unit."
+    }
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fu_slopedglitchhull01.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "电子人船体面板",
+      "Eng": "Glitch Hull Panel"
+    }
+  }
+]

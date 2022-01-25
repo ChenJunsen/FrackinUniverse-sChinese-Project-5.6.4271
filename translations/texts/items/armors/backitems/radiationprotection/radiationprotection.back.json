@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/backitems/radiationprotection/radiationprotection.back": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "对在^red;轻度至中度辐射^reset;星球上的探险很有帮助。\n^cyan;放射抗性+20%^reset;",
+      "Eng": "+20% Radiation Resist. Use it on planets with ^red;low to moderate radiation levels^reset;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/backitems/radiationprotection/radiationprotection.back": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "消辐EPP I",
+      "Eng": "Radiation EPP"
+    }
+  }
+]

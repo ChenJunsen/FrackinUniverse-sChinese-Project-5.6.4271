@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/farm/fuhaypilewheelbarrow.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "独轮手推车",
+      "Eng": "Haypile Wheelbarrow"
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/ise3/whitespineshell.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "白棘壳",
+      "Eng": "Whitespine Shell"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/ise3/whitespineshell.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "^yellow;^reset;^cyan;免疫^reset;: 硫酸: 2m",
+      "Eng": "^yellow;^reset;^cyan;Immunity^reset;: Sulphuric Acid: 2m"
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaligeneric/doors/avalitechdoor.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "镀金门",
+      "Eng": "Plated Door"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaligeneric/doors/avalitechdoor.object": [
+        "/avaliDescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "需要通过穿戴式增强现实设备才能解锁，只有羽族才能正常打开它。",
+      "Eng": "The locking mechanism is accessed via augmented reality, non-avali can't normally open a door like this."
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "bees/frames/arctic.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "使敏感的蜜蜂在炎热的世界中壮成长。",
+      "Eng": "Allows sensitive bees to thrive on Hot worlds."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "bees/frames/arctic.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "极地框巢",
+      "Eng": "Arctic Frame"
+    }
+  }
+]

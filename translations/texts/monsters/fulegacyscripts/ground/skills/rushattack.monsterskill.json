@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/fulegacyscripts/ground/skills/rushattack.monsterskill": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "*冲刺*",
+      "Eng": "RUSH"
+    }
+  }
+]

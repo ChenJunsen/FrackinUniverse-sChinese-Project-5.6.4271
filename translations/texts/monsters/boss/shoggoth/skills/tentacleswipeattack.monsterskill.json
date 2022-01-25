@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/boss/shoggoth/skills/tentacleswipeattack.monsterskill": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "重击！",
+      "Eng": "WHAP!"
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/pixelgoods/fuokeahitechlamp1.object": [
+        "/apexDescription",
+        "/avianDescription",
+        "/floranDescription",
+        "/glitchDescription",
+        "/humanDescription",
+        "/hylotlDescription",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "高科技灯。",
+      "Eng": "Hi-tech Lamp"
+    }
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/caprioleplant/caprioleplantseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/caprioleplant/wildcaprioleplantseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "跳跃花种子",
+      "Eng": "Capriole Seed"
+    }
+  }
+]

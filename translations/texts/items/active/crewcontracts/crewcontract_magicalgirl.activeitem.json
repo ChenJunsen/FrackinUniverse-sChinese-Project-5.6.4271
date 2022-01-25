@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/crewcontracts/crewcontract_magicalgirl.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A magic girl with a staff. Provides ^indigo;Shadow and Shadow Gas Immunity^reset;, and 5% reduced fuel costs."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/crewcontracts/crewcontract_magicalgirl.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "合同：魔法少女",
+      "Eng": "Magical Girl Contract"
+    }
+  }
+]

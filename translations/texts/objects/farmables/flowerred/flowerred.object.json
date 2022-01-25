@@ -1,0 +1,51 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/flowerred/flowerred.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "一朵令人愉快的红色花。",
+      "Eng": "A delightful red flower."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/flowerred/flowerred.object": [
+        "/apexDescription",
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Chs": "一朵红色的花。",
+      "Eng": "A red flower."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/flowerred/flowerred.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "叶族人不喜欢红红红色。",
+      "Eng": "Floran weak to colour red."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/flowerred/flowerred.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "一朵红色的花。",
+      "Eng": "Why do you build me up, red flower of unknown species."
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/fissionfurnace/solaricrystal.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "浓缩成型的月晶。",
+      "Eng": "Condensed and hardened Lunari crystal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/fissionfurnace/solaricrystal.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "月晶",
+      "Eng": "Lunari Crystal"
+    }
+  }
+]

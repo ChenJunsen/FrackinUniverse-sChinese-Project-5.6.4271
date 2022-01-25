@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/melting/fennixlavaheal.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "熔岩浴",
+      "Eng": "Lava Bath"
+    }
+  }
+]

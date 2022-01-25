@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avaliplain.matitem": [
+        "/description"
+      ],
+      "tiles/materials/avaliplain.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "朴实的面板。",
+      "Eng": "Plain paneling, because sometimes less is more."
+    }
+  }
+]

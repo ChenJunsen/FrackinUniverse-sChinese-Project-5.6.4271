@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/retexaetherdust.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/retexaetherdust.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "以太尘",
+      "Eng": "Aether Dust"
+    }
+  }
+]

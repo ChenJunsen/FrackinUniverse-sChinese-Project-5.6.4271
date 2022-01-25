@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/minibiome/elder/dungeondeco/elderhanging.object": [
+        "/shortdescription"
+      ],
+      "objects/minibiome/elder/dungeondeco/elderhanging2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "^orange;奇怪的生物^white;",
+      "Eng": "^orange;Odd formation^white;"
+    }
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/honeyextractor/redhoneyjar.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A red jar of honey! Exceptional healing ability.\n^green;Heal ^white;100 ^gray;(^white;1m^gray;)^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/honeyextractor/redhoneyjar.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "罐装红蜂蜜",
+      "Eng": "Red Honey Jar"
+    }
+  }
+]

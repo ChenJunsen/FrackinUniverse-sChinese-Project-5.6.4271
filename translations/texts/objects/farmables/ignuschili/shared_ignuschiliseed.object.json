@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/ignuschili/ignuschiliseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/ignuschili/wildignuschiliseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "伊格纳斯辣椒种子",
+      "Eng": "Ignus Chili Seed"
+    }
+  }
+]

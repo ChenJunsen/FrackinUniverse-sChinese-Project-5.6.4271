@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/ise3/kramilspine.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "克拉姆根茎",
+      "Eng": "Kramil Spine"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/ise3/kramilspine.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "^yellow;^reset;^cyan;免疫^reset;: 冰面, 雪泥, 雪, 致命严寒: 2m",
+      "Eng": "^yellow;^reset;^cyan;Immunity^reset;: Icy, Slush, Snow, Deadly Cold: 2m"
+    }
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/mods/purplecrystalgrass.matmod": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "水晶",
+      "Eng": "Crystals"
+    }
+  }
+]

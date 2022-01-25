@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/skathpressurewall.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "四象水合加压梁",
+      "Eng": "Tethyde Pressurised Beam"
+    }
+  }
+]

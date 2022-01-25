@@ -1,0 +1,47 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/bamboo/bambooseed.object": [
+        "/hylotlDescription"
+      ],
+      "objects/farmables/bamboo/wildbambooseed.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "可口的竹子。",
+      "Eng": "Delicious Bamboo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/bamboo/bambooseed.object": [
+        "/humanDescription"
+      ],
+      "objects/farmables/bamboo/wildbambooseed.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "新鲜的竹子。",
+      "Eng": "Fresh Bamboo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/bamboo/bambooseed.object": [
+        "/floranDescription"
+      ],
+      "objects/farmables/bamboo/wildbambooseed.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "可以制作锋利利利的刺。",
+      "Eng": "Sssharp sssticksss for ssstabbing."
+    }
+  }
+]

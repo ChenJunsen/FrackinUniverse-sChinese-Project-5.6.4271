@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/regeneration/fucrewmedicshipregeneration2.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "小型飞船再生",
+      "Eng": "Minor Ship Regeneration"
+    }
+  }
+]

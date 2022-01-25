@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/redhoneycombmaterial.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "红色蜂蜜材质",
+      "Eng": "Red Honey Material"
+    }
+  }
+]

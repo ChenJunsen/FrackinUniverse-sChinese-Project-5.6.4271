@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/biscorn/biscornseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/biscorn/wildbiscornseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "双子玉米种子",
+      "Eng": "Biscorn Seed"
+    }
+  }
+]

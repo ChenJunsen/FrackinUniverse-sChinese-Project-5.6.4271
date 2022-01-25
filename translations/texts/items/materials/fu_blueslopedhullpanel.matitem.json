@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fu_blueslopedhullpanel.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "鲛人船体面板",
+      "Eng": "Hylotl Hull Panel"
+    }
+  }
+]

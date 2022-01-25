@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/leafshell/leafshellseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/leafshell/wildleafshellseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "叶壳花种子",
+      "Eng": "Leafshell Seed"
+    }
+  }
+]

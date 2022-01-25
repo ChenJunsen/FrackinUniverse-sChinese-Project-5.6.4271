@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/horn/mechenergyfield5.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "燃料罐 V",
+      "Eng": "Fuel Tank V"
+    }
+  }
+]

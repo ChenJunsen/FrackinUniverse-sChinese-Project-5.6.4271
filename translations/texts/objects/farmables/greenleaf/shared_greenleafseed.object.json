@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/greenleaf/greenleafseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/greenleaf/wildgreenleafseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "绿叶草种子",
+      "Eng": "Greenleaf Seed"
+    }
+  }
+]

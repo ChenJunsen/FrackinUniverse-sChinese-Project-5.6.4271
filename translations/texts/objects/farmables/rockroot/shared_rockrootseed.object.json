@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/rockroot/rockrootseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/rockroot/wildrockrootseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "石之根茎种子",
+      "Eng": "Rockroot Seed"
+    }
+  }
+]

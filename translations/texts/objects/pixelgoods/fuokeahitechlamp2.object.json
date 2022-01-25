@@ -1,0 +1,31 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/pixelgoods/fuokeahitechlamp2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "高科技壁灯",
+      "Eng": "Hi-tech Wall Lamp"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/pixelgoods/fuokeahitechlamp2.object": [
+        "/apexDescription",
+        "/avianDescription",
+        "/floranDescription",
+        "/glitchDescription",
+        "/humanDescription",
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "高科技壁灯。",
+      "Eng": "Hi-tech Wall Lamp."
+    }
+  }
+]

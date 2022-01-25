@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/glowglassmaterial.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "发光玻璃块",
+      "Eng": "Glowing Glass Block"
+    }
+  }
+]

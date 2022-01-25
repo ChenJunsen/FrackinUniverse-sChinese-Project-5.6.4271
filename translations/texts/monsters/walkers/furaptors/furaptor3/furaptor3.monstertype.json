@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/walkers/furaptors/furaptor3/furaptor3.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "加拉迅猛龙",
+      "Eng": "Jallaraptor"
+    }
+  }
+]

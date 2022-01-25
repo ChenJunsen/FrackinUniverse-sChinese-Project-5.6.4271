@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/lumivine.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "^yellow;^reset;^cyan;免疫^reset;: 压强: 2m",
+      "Eng": "^yellow;^reset;^cyan;Immunity^reset;: Pressure: 2m"
+    }
+  }
+]

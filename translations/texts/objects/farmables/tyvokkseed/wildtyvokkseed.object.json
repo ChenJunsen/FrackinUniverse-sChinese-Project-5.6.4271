@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/tyvokkseed/wildtyvokkseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "糖果棒种子",
+      "Eng": "Tyvokk seed"
+    }
+  }
+]

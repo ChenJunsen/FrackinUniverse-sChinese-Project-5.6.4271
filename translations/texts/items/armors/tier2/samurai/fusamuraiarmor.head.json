@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/tier2/samurai/fusamuraiarmor.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "武士头盔",
+      "Eng": "Samurai Helmet"
+    }
+  }
+]

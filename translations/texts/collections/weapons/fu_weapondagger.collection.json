@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/weapons/fu_weapondagger.collection": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Chs": "[FU] 黄油刀",
+      "Eng": "[FU] Butter Knives"
+    }
+  }
+]

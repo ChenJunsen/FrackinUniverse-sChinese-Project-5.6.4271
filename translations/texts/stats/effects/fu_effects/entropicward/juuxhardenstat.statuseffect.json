@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/fu_effects/entropicward/juuxhardenstat.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "法瑞图硬化",
+      "Eng": "Juux Hardening"
+    }
+  }
+]

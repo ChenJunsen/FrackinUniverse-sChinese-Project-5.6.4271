@@ -1,0 +1,23 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/regeneration/regeneration3.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/regeneration/regeneration4.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/regeneration/regeneration5.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/regeneration/regenmomma.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "高效生命恢复",
+      "Eng": "High Regen"
+    }
+  }
+]

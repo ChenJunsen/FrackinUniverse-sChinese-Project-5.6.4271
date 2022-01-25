@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/walkers/golemish/fubloodgolem/fubloodgolem.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "鲜血魔像",
+      "Eng": "Hemogolem"
+    }
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/other/avaliglide.tech": [
+        "/shortDescription"
+      ],
+      "tech/other/flight_avali.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "滑翔(羽族)",
+      "Eng": "Avali Glide"
+    }
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/slimeplant/wildslimeplantseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "泥叶种子",
+      "Eng": "Slime Seed"
+    }
+  }
+]

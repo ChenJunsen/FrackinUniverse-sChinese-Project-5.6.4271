@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/underground_detached/ffcrystalrealm.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Chs": "结晶平原",
+      "Eng": "Crystalline Expanse"
+    }
+  }
+]

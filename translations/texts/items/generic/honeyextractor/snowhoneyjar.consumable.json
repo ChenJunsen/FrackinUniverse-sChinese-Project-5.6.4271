@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/honeyextractor/snowhoneyjar.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A jar of frozen honey.\n^cyan;+^white;30% ^pink;Ice ^cyan;Resistance ^gray;(^white;5m^gray;)\n^green;Heal ^white;50 ^gray;(^white;1m^gray;)^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/honeyextractor/snowhoneyjar.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "罐装冰结蜂蜜",
+      "Eng": "Frozen Honey Jar"
+    }
+  }
+]

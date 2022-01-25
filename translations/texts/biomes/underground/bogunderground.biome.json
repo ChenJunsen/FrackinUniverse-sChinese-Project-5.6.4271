@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/underground/bogunderground.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Chs": "沼泽洞穴",
+      "Eng": "Bog Caverns"
+    }
+  }
+]

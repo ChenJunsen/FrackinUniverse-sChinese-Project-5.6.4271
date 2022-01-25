@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/throwables/ise3/bladetreeblade.thrownitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "刀片镖",
+      "Eng": "Blade Tree Dart"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/throwables/ise3/bladetreeblade.thrownitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "这真是一种有趣的投掷型武器。",
+      "Eng": "Sharp and super-duper fun!"
+    }
+  }
+]

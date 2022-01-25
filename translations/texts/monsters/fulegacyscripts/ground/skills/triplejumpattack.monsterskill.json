@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/fulegacyscripts/ground/skills/triplejumpattack.monsterskill": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "*三段跳*",
+      "Eng": "TRIPLE HOP"
+    }
+  }
+]

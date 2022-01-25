@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/bees/metalbee/metalbee.monstertype": [
+        "/shortdescription"
+      ],
+      "monsters/flyers/futinybee/futinybeemetal/futinybeemetal.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "金属蜜蜂",
+      "Eng": "Metal Bee"
+    }
+  }
+]

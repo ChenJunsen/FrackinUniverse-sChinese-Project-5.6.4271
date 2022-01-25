@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/energiflower/energiflowerseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/energiflower/wildenergiflowerseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "能量花种子",
+      "Eng": "Energiflower Seed"
+    }
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/nightarcastleblock.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "夜族黑暗城堡砖块",
+      "Eng": "Nightar Dark Castle Block"
+    }
+  }
+]

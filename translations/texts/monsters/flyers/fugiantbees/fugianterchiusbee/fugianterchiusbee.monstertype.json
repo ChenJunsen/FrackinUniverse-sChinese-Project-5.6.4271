@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/flyers/fugiantbees/fugianterchiusbee/fugianterchiusbee.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "被感染的蜂后",
+      "Eng": "Infected Queen"
+    }
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/food/bonus/sugar_bonus.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "糖果大战！",
+      "Eng": "Sugar rush!"
+    }
+  }
+]

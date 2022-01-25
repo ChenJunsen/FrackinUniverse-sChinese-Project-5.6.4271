@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/generated/skills/ranged/sonicWaveAttack.monsterskill": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "*音波波动*",
+      "Eng": "SONIC WAVE"
+    }
+  }
+]

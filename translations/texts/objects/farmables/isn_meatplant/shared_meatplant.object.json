@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/isn_meatplant/isn_meatplant.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/isn_meatplant/isn_wildmeatplant.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "肉串种子",
+      "Eng": "Meatvine Bulb"
+    }
+  }
+]

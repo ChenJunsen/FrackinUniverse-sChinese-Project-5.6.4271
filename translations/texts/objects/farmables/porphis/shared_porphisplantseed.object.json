@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/porphis/porphisplantseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/porphis/wildporphisplantseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "态射草种子",
+      "Eng": "Porphis Bulb"
+    }
+  }
+]

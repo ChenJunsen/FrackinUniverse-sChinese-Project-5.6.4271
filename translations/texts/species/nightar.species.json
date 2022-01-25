@@ -1,0 +1,61 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/nightar.species": [
+        "/charCreationTooltip/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Evolved in the depths of a Penumbral world, the Nightar dislike light intensely. They are able warriors and capable spies.\n\n  ^orange;Diet^reset;: Omnivore\n\n^orange;Perks^reset;:\n  ^green;Darkness^reset;: ^green;Physical Res.^reset; and ^green;Damage^reset;. Draining strikes.\n  Tech: ^green;Conshak^reset;(light aura, detect monsters, reflect damage. ^red;8s charge-up^reset;)\n  ^green;Resist^reset;: +^green;40^reset;% Shadow, +^green;10^reset;% Ice\n  ^cyan;Immune^reset;: Bio-Ooze, Poison\n\n^orange;Weapons^reset;:\n  All Swords: +^green;1^reset;% Crit Chance, Damage x^green;1.1^reset;. ^green;3^reset;% Shadow Burst Chance (^green;5 damage^reset;) at full Health.\n\n  Shortswords or Daggers: +^green;10^reset;% Crit Damage\n  Longsword or Katana: Damage x^green;1.06^reset;\n  Katana/Rapier + Dagger: +^green;1.5^reset;% Crit Chance\n  2x Small Blades: Defense x^green;1.12^reset;, +^green;5^reset;% Movement Speed\n  Shield: +^green;2 Shield Bash^reset;, +^green;25^reset;% Knockback Resist\n  Whip: +^green;10^reset;% Movement Speed\n\n^red;Weaknesses^reset;:\n  ^red;Resist^reset;: -^red;20^reset;% Cosmic, -^red;20^reset;% Radiation, -^red;20^reset;% Electric\n  ^red;Light^reset;: Reduces ^red;Energy, Health, Physical Resistance and Damage^reset;. Cancels ^red;Drain effect^reset; of attacks."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/nightar.species": [
+        "/charGenTextLabels/4"
+      ]
+    },
+    "Texts": {
+      "Chs": "眼睛颜色",
+      "Eng": "Eye colour"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/nightar.species": [
+        "/charCreationTooltip/subTitle"
+      ]
+    },
+    "Texts": {
+      "Chs": "水",
+      "Eng": "H2O"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/nightar.species": [
+        "/charGenTextLabels/8"
+      ]
+    },
+    "Texts": {
+      "Chs": "NIGHTAR",
+      "Eng": "NIGHTAR"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/nightar.species": [
+        "/charCreationTooltip/title"
+      ]
+    },
+    "Texts": {
+      "Chs": "Nightar",
+      "Eng": "Nightar"
+    }
+  }
+]

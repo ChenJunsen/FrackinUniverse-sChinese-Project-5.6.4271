@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fulightfullwood1.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "处理过的轻质木材",
+      "Eng": "Light Treated Wood"
+    }
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/other/flight_saturnianmoth.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "飞蛾飞行。畅游黑暗。\n激活：^green;[F]^reset;",
+      "Eng": "Moth flight. Best in darkness. ^green;[F]^reset;."
+    }
+  }
+]

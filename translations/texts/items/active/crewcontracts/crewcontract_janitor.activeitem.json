@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/crewcontracts/crewcontract_janitor.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "合同：清洁工",
+      "Eng": "Custodian Contract"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/crewcontracts/crewcontract_janitor.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "他能帮你保持飞船的整洁。减少10％的飞船质量。",
+      "Eng": "Has a mop. Sweeps. Reduces ship mass by 10%."
+    }
+  }
+]

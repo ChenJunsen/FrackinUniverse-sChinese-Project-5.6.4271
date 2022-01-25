@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/liquids/liquidblood.liqitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "一定量的血液。",
+      "Eng": "A measure of blood."
+    }
+  }
+]

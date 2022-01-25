@@ -1,0 +1,77 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/flyers/servitors/capturebot/servitorcapturebot.monstertype": [
+        "/shortdescription"
+      ],
+      "spawners/sentrybotcapturebot/sentrybotcapturebot.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "抓捕机器人",
+      "Eng": "Capture Bot"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/boss/alienboss/alienboss.monstertype": [
+        "/shortdescription"
+      ],
+      "spawners/madness/summon/madnessfleshtyrant/madnessfleshtyrant.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "血肉暴君",
+      "Eng": "Flesh Tyrant"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/flyers/servitors/servitor2.monstertype": [
+        "/shortdescription"
+      ],
+      "spawners/sentrybotservitor/sentrybotcraft.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "立方体机器人 MK I",
+      "Eng": "Servitor mkI"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/flyers/servitors/servitor3.monstertype": [
+        "/shortdescription"
+      ],
+      "spawners/sentrybotservitor/sentrybotcraft2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "立方体机器人 MK II",
+      "Eng": "Servitor mkII"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/flyers/servitors/servitor4.monstertype": [
+        "/shortdescription"
+      ],
+      "spawners/sentrybotservitor/sentrybotcraft3.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "立方体机器人 MK III",
+      "Eng": "Servitor mkIII"
+    }
+  }
+]

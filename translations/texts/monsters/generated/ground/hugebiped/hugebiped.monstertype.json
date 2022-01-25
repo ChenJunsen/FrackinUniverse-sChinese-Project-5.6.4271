@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/generated/ground/hugebiped/hugebiped.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "一种巨大的生物。",
+      "Eng": "A massive creature."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/generated/ground/hugebiped/hugebiped.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "巨型两足动物",
+      "Eng": "Huge Biped"
+    }
+  }
+]

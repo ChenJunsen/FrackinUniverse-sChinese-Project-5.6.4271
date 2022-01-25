@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/crewcontracts/crewcontract_sciencedrug.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "合同：药品学家",
+      "Eng": "Drug Specialist Contract"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/crewcontracts/crewcontract_sciencedrug.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hires a drug specialist to increase jump height and speed, and reduces your ship's fuel costs by 5%."
+    }
+  }
+]

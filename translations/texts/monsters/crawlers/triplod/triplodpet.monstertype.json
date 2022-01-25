@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/crawlers/triplod/triplodpet.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "三足机器人 mk1",
+      "Eng": "Triplod mk1"
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/minibiome/honey/fugoldenoakdoor/fugoldenoakdoor.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "一扇坚固的金色门。",
+      "Eng": "A golden wooden door"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/minibiome/honey/fugoldenoakdoor/fugoldenoakdoor.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "金色门",
+      "Eng": "Golden Door"
+    }
+  }
+]

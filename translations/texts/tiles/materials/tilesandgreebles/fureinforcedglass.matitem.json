@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/tilesandgreebles/fureinforcedglass.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "塑钢强化玻璃",
+      "Eng": "Plasteel reinforced glass."
+    }
+  }
+]

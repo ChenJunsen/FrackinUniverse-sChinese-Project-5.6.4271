@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/a_avali/piruseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/a_avali/wildpiruseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "皮鲁藤壶种子[FU]",
+      "Eng": "Piru Colony [FU]"
+    }
+  }
+]

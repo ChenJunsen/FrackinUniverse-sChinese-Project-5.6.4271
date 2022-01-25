@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/mods/magnesium.matmod": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "镁。",
+      "Eng": "Magnesium."
+    }
+  }
+]

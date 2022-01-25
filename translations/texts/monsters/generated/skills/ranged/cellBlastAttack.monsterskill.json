@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/generated/skills/ranged/cellBlastAttack.monsterskill": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "*细胞电击*",
+      "Eng": "CELL SHOCK"
+    }
+  }
+]

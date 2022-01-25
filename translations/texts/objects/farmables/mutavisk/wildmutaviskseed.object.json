@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/mutavisk/wildmutaviskseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "飞螳种子",
+      "Eng": "Wild Mutavisk"
+    }
+  }
+]

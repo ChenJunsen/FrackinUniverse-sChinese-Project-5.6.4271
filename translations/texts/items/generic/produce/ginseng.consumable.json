@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/ginseng.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "^yellow;^reset;^cyan;+8 HP^reset;, ^cyan;+12 EP^reset;: 3m",
+      "Eng": "^yellow;^reset;^cyan;+8 HP^reset;, ^cyan;+12 EP^reset;: 3m"
+    }
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/silverleaf/silverleafseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/silverleaf/wildsilverleafseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "银叶草种子",
+      "Eng": "Silverleaf Seed"
+    }
+  }
+]

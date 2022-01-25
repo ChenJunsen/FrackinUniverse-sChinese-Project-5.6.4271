@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/corvexsprout/corvexseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/corvexsprout/wildcorvexseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "凸球萌芽种子",
+      "Eng": "Corvex Sprout"
+    }
+  }
+]

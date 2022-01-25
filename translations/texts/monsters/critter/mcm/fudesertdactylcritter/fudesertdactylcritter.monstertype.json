@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/critter/mcm/fudesertdactylcritter/fudesertdactylcritter.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "翼手龙",
+      "Eng": "Pterodactyl"
+    }
+  }
+]

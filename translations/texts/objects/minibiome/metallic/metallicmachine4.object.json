@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/minibiome/metallic/metallicmachine4.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "它看起来像是某种对撞机，作用于粒子或是其他东西。",
+      "Eng": "It appears to be some sort of collider, particle or otherwise."
+    }
+  }
+]

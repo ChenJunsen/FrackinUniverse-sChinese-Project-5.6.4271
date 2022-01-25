@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/labfurniture/labdoorhuge/labdoorhuge.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "巨大实验室门",
+      "Eng": "Huge Lab Door"
+    }
+  }
+]

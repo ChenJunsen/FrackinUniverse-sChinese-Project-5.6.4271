@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/core/nitrogencorelayer.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Chs": "液氮地核",
+      "Eng": "Nitrogen Core"
+    }
+  }
+]

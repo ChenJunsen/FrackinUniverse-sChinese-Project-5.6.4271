@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/ise3/herrodbushgem.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "赫罗德灌木果",
+      "Eng": "Herrod Bush Gem"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/ise3/herrodbushgem.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "^yellow;^reset;^cyan;免疫^reset;: 暗影: 3m",
+      "Eng": "^yellow;^reset;^cyan;Immunity^reset;: Shadow: 3m"
+    }
+  }
+]

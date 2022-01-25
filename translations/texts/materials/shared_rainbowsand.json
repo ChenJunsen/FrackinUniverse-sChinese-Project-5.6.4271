@@ -1,0 +1,32 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rainbowsandmaterial.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/rainbowsand.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "彩虹沙",
+      "Eng": "Rainbow Sand"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rainbowsandmaterial.matitem": [
+        "/description"
+      ],
+      "tiles/materials/rainbowsand.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "彩虹色的沙子。",
+      "Eng": "Rainbow-hued sand."
+    }
+  }
+]

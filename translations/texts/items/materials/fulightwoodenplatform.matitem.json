@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fulightwoodenplatform.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "轻质木平台",
+      "Eng": "Light Wood Platform"
+    }
+  }
+]

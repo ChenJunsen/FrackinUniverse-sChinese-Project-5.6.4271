@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/regeneration/fucrewmedicregeneration1.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "医疗救助",
+      "Eng": "Medic Healing"
+    }
+  }
+]

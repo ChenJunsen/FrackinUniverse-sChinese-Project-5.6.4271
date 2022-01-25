@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/skills/ranged/robotgaussAttack.monsterskill": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "*高斯炮*",
+      "Eng": "Gauss Cannon"
+    }
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/tier3/scoutarmor/ff_scoutarmor.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "斥候胸甲",
+      "Eng": "Scout Chestpiece"
+    }
+  }
+]

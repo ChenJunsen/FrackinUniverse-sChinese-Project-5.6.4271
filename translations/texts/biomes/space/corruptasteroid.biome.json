@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/space/corruptasteroid.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Chs": "腐化小行星带",
+      "Eng": "corruptasteroid"
+    }
+  }
+]

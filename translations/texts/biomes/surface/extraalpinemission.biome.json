@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/extraalpinemission.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Chs": "额外高山生态",
+      "Eng": "extraalpinemission"
+    }
+  }
+]

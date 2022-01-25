@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "spawners/sentrybotwaterbot/sentrybotwaterbot.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "非常棒的自动浇水机器人。",
+      "Eng": "A reliable sidekick for watering your garden."
+    }
+  }
+]

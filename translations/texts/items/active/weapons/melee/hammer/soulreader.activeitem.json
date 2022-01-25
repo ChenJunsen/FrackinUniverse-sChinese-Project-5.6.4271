@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/hammer/soulreader.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "阅读灵魂。",
+      "Eng": "Reads the soul."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/hammer/soulreader.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "读魂者",
+      "Eng": "soulreader"
+    }
+  }
+]

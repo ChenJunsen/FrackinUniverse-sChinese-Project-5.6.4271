@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/tier4/agilitysuit/agilitysuit.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "特工头盔",
+      "Eng": "Agent Headset"
+    }
+  }
+]

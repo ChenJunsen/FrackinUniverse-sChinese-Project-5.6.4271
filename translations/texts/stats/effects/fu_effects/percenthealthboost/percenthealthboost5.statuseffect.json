@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/fu_effects/percenthealthboost/percenthealthboost5.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "5% 最大HP提高",
+      "Eng": "5% More HP"
+    }
+  }
+]

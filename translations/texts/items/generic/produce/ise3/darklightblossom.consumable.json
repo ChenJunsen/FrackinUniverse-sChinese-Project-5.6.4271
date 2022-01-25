@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/ise3/darklightblossom.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "夜光花",
+      "Eng": "Darklight Blossom"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/ise3/darklightblossom.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "^yellow;^reset;^cyan;免疫^reset;: 精神错乱, 黑暗: 3m",
+      "Eng": "^yellow;^reset;^cyan;Immunity^reset;: Insanity, Darkness: 3m"
+    }
+  }
+]

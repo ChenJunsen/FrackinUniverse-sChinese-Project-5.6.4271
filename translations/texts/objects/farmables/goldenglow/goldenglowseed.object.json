@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/goldenglow/goldenglowseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "重瓣金光菊种子",
+      "Eng": "Goldenglow Seed"
+    }
+  }
+]

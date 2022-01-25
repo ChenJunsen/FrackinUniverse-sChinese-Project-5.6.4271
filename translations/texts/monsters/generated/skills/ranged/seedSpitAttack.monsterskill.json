@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/generated/skills/ranged/seedSpitAttack.monsterskill": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "*毒性种子*",
+      "Eng": "TOXIC SEED"
+    }
+  }
+]

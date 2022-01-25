@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/other/dragonfireburst.tech": [
+        "/description"
+      ],
+      "tech/other/elduukharburst.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "喷射火焰！\n使用：^green;[F]^reset;",
+      "Eng": "Breathe Fire! Use ^green;[F]^reset;."
+    }
+  }
+]

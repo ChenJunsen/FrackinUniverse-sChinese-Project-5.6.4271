@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/pixelgoods/fufloranlamp.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "多叶灯",
+      "Eng": "Leafy Lamp"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/pixelgoods/fufloranlamp.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "还算明亮。",
+      "Eng": "Lush and glowy."
+    }
+  }
+]

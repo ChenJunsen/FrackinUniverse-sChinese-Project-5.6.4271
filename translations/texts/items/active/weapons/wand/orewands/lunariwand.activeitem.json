@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/wand/orewands/lunariwand.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "月晶魔杖",
+      "Eng": "Lunari Wand"
+    }
+  }
+]

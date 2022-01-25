@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/bloodroot/bloodrootseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/bloodroot/wildbloodrootseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "血之根茎种子",
+      "Eng": "Blood Root Seed"
+    }
+  }
+]

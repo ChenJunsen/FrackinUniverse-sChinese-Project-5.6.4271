@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/protheonshard.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "远古的造物。\n^green;在显微镜下研究。^reset;",
+      "Eng": "Artifact of the ancients.\n^green;Research in a microscope.^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/protheonshard.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "先贤碎片",
+      "Eng": "Protheon Shard"
+    }
+  }
+]

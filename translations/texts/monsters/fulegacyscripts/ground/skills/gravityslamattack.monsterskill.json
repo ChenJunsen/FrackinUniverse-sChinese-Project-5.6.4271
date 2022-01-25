@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/fulegacyscripts/ground/skills/gravityslamattack.monsterskill": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "*重力猛击*",
+      "Eng": "GRAVITY SLAM"
+    }
+  }
+]

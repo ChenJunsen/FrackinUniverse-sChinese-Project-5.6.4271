@@ -1,0 +1,20 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/bloodstonematerial.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/bloodstone/bloodstonetile.material": [
+        "/shortdescription"
+      ],
+      "tiles/materials/bloodstone/ff_bloodstone.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "血石",
+      "Eng": "Blood Stone"
+    }
+  }
+]

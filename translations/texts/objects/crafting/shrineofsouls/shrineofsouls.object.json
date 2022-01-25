@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/shrineofsouls/shrineofsouls.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "一座为迷失的灵魂而设的祭坛。",
+      "Eng": "An altar dedicated to the souls of the lost."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/shrineofsouls/shrineofsouls.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "迷失灵魂的圣殿",
+      "Eng": "Shrine of Lost Souls"
+    }
+  }
+]

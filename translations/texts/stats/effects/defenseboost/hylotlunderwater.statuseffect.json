@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/defenseboost/hylotlunderwater.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "防御 +",
+      "Eng": "Def +"
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/xaxwing.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "龙翼",
+      "Eng": "Xax Wing"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/xaxwing.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "^yellow;^reset;^cyan;悬浮^reset;: 1m\n^yellow;^reset;^cyan;免疫^reset;: 重力雨: 3m",
+      "Eng": "^yellow;^reset;^cyan;Levitation^reset;: 1m\n^yellow;^reset;^cyan;Immunity^reset;: Grav Rain: 3m"
+    }
+  }
+]

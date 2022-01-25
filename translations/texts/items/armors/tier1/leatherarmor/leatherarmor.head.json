@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/tier1/leatherarmor/leatherarmor.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "皮制帽",
+      "Eng": "Leather Cap"
+    }
+  }
+]

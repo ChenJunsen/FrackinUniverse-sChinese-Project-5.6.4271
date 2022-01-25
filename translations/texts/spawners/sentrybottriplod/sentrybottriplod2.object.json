@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "spawners/sentrybottriplod/sentrybottriplod2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "三足机器人(激光)",
+      "Eng": "Laser Guard"
+    }
+  }
+]

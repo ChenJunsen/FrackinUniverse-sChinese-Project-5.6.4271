@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/ighant/ighantseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/ighant/wildighantseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "艾恩茎种子",
+      "Eng": "Ighant Seed"
+    }
+  }
+]

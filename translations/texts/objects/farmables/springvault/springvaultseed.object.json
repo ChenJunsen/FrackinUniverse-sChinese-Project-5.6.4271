@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/springvault/springvaultseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "春季卷种子",
+      "Eng": "Springvault Seed"
+    }
+  }
+]

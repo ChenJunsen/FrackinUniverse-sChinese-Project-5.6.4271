@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/power/isn_atmoscondenser/isn_atmoscondenser.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "可以把空气凝结成有用的反应物的装置。^cyan;需要^orange;15W^cyan;电力^reset;。液体堆积时效率降低，扫描以查看更多信息。",
+      "Eng": "Condenses the atmosphere into usable reagents. Requires 15W of power. Less effective when stacked. Scan for info."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/power/isn_atmoscondenser/isn_atmoscondenser.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "^cyan;空气冷凝器^white;",
+      "Eng": "^cyan;Atmospheric Condenser^white;"
+    }
+  }
+]

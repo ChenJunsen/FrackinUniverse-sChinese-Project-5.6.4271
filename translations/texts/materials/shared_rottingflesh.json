@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rottingfleshmaterial.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/rottingflesh.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "腐肉",
+      "Eng": "Rotting Flesh"
+    }
+  }
+]

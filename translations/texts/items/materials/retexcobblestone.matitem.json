@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/retexcobblestone.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "一块厚厚的光滑石头。",
+      "Eng": "A thick plate of smooth stone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/retexcobblestone.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "光滑的石头",
+      "Eng": "Smooth Stone"
+    }
+  }
+]

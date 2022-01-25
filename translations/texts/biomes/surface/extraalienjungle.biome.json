@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/extraalienjungle.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Chs": "外星丛林",
+      "Eng": "Alien Jungle"
+    }
+  }
+]

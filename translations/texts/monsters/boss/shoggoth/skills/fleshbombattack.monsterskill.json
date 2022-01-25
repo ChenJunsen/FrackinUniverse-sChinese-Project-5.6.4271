@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/boss/shoggoth/skills/fleshbombattack.monsterskill": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "血肉炸弹",
+      "Eng": "Flesh Bomb"
+    }
+  }
+]

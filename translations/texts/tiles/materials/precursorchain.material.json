@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/precursorchain.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "一种来自古代的超强合金。",
+      "Eng": "A super-strong alloy of ancient origin"
+    }
+  }
+]

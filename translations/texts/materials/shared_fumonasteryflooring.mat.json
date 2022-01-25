@@ -1,0 +1,18 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fumonasteryflooring.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/fumonasteryflooring.material": [
+        "/description",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "木质地板",
+      "Eng": "Shoji Flooring"
+    }
+  }
+]

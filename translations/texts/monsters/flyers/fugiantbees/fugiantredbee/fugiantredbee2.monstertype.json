@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/flyers/fugiantbees/fugiantredbee/fugiantredbee2.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "鲜血蜂后",
+      "Eng": "Blood Queen"
+    }
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/fu_effects/feedpack/feedpackneg.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "+20%饥饿消耗(药剂副作用)",
+      "Eng": "+20% Hunger Drain (Stim Rig)"
+    }
+  }
+]

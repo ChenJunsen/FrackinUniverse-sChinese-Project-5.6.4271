@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/fu_fuelpurifier/fu_fuelpurifier.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Purifies fuel before it reaches your ships FTL drive. Reduces fuel cost by ^green;5^reset;%"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/fu_fuelpurifier/fu_fuelpurifier.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "^cyan;燃料净化器^reset;",
+      "Eng": "^cyan;Fuel Purifier^reset;"
+    }
+  }
+]

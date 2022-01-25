@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/weapons/fu_weaponchakram.collection": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Chs": "[FU] 扔我",
+      "Eng": "[FU] Toss Me"
+    }
+  }
+]

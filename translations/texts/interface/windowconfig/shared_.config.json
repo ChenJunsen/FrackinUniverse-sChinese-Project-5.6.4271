@@ -1,0 +1,263 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/armory.config": [
+        "/paneLayout/windowtitle/title"
+      ],
+      "interface/windowconfig/chemlab.config": [
+        "/paneLayout/windowtitle/title"
+      ],
+      "interface/windowconfig/clothingfabricator.config": [
+        "/paneLayout/windowtitle/title"
+      ],
+      "interface/windowconfig/designlab.config": [
+        "/paneLayout/windowtitle/title"
+      ],
+      "interface/windowconfig/nanofabricator.config": [
+        "/paneLayout/windowtitle/title"
+      ],
+      "interface/windowconfig/powerstation.config": [
+        "/paneLayout/windowtitle/title"
+      ],
+      "interface/windowconfig/prototyper.config": [
+        "/paneLayout/windowtitle/title"
+      ],
+      "interface/windowconfig/radien.config": [
+        "/paneLayout/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Chs": "军械制作台",
+      "Eng": "ARMORY"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/crystalloom.config": [
+        "/paneLayout/lblSchematics/value"
+      ],
+      "interface/windowconfig/furniturestation.config": [
+        "/paneLayout/lblSchematics/value"
+      ],
+      "interface/windowconfig/gemstation.config": [
+        "/paneLayout/lblSchematics/value"
+      ],
+      "interface/windowconfig/lavalampstation.config": [
+        "/paneLayout/lblSchematics/value"
+      ]
+    },
+    "Texts": {
+      "Chs": "蓝图",
+      "Eng": "BLUEPRINTS"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/armory.config": [
+        "/paneLayout/windowtitle/subtitle"
+      ],
+      "interface/windowconfig/chemlab.config": [
+        "/paneLayout/windowtitle/subtitle"
+      ],
+      "interface/windowconfig/clothingfabricator.config": [
+        "/paneLayout/windowtitle/subtitle"
+      ],
+      "interface/windowconfig/designlab.config": [
+        "/paneLayout/windowtitle/subtitle"
+      ],
+      "interface/windowconfig/nanofabricator.config": [
+        "/paneLayout/windowtitle/subtitle"
+      ],
+      "interface/windowconfig/powerstation.config": [
+        "/paneLayout/windowtitle/subtitle"
+      ],
+      "interface/windowconfig/prototyper.config": [
+        "/paneLayout/windowtitle/subtitle"
+      ],
+      "interface/windowconfig/radien.config": [
+        "/paneLayout/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Chs": "制作强力武器 & 护甲。",
+      "Eng": "Create deadly weapons & armor."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/craftingmech.config": [
+        "/paneLayout/btnCraft/caption"
+      ],
+      "interface/windowconfig/craftingslimecentrifuge.config": [
+        "/paneLayout/btnCraft/caption"
+      ],
+      "interface/windowconfig/fruitpress.config": [
+        "/paneLayout/btnCraft/caption"
+      ],
+      "interface/windowconfig/genesequencer.config": [
+        "/paneLayout/btnCraft/caption"
+      ],
+      "interface/windowconfig/xenostation.config": [
+        "/paneLayout/btnCraft/caption"
+      ]
+    },
+    "Texts": {
+      "Chs": "制作",
+      "Eng": "Forge"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/kitchen.config": [
+        "/paneLayout/lblProduct/value"
+      ],
+      "interface/windowconfig/platingfood.config": [
+        "/paneLayout/lblProduct/value"
+      ]
+    },
+    "Texts": {
+      "Chs": "可用原料",
+      "Eng": "INGREDIENTS AVAILABLE"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/craftingeasel.config": [
+        "/paneLayout/btnCraft/caption"
+      ],
+      "interface/windowconfig/craftingesoteric.config": [
+        "/paneLayout/btnCraft/caption"
+      ],
+      "interface/windowconfig/kitchen.config": [
+        "/paneLayout/btnCraft/caption"
+      ],
+      "interface/windowconfig/platingfood.config": [
+        "/paneLayout/btnCraft/caption"
+      ]
+    },
+    "Texts": {
+      "Chs": "烹饪",
+      "Eng": "Prepare"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/fissionfurnace.config": [
+        "/paneLayout/btnCraft/caption"
+      ],
+      "interface/windowconfig/skathforgecrafting.config": [
+        "/paneLayout/btnCraft/caption"
+      ]
+    },
+    "Texts": {
+      "Chs": "冶炼",
+      "Eng": "Smelt"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/craftingmech.config": [
+        "/paneLayout/lblSchematics/value"
+      ],
+      "interface/windowconfig/craftingslimecentrifuge.config": [
+        "/paneLayout/lblSchematics/value"
+      ],
+      "interface/windowconfig/fissionfurnace.config": [
+        "/paneLayout/lblSchematics/value"
+      ],
+      "interface/windowconfig/hypercompressor.config": [
+        "/paneLayout/lblSchematics/value"
+      ],
+      "interface/windowconfig/skathcodex.config": [
+        "/paneLayout/lblSchematics/value"
+      ],
+      "interface/windowconfig/skathforgecrafting.config": [
+        "/paneLayout/lblSchematics/value"
+      ],
+      "interface/windowconfig/skathworktablecrafting.config": [
+        "/paneLayout/lblSchematics/value"
+      ]
+    },
+    "Texts": {
+      "Chs": "^#b9b5b2;蓝图",
+      "Eng": "^#b9b5b2;BLUEPRINTS"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/craftingcrewshop.config": [
+        "/paneLayout/lblProducttitle/value"
+      ],
+      "interface/windowconfig/craftingmech.config": [
+        "/paneLayout/lblProducttitle/value"
+      ],
+      "interface/windowconfig/craftingslimecentrifuge.config": [
+        "/paneLayout/lblProducttitle/value"
+      ],
+      "interface/windowconfig/fissionfurnace.config": [
+        "/paneLayout/lblProducttitle/value"
+      ],
+      "interface/windowconfig/hypercompressor.config": [
+        "/paneLayout/lblProducttitle/value"
+      ],
+      "interface/windowconfig/skathcodex.config": [
+        "/paneLayout/lblProducttitle/value"
+      ],
+      "interface/windowconfig/skathforgecrafting.config": [
+        "/paneLayout/lblProducttitle/value"
+      ],
+      "interface/windowconfig/skathworktablecrafting.config": [
+        "/paneLayout/lblProducttitle/value"
+      ]
+    },
+    "Texts": {
+      "Chs": "^#b9b5b2;产品",
+      "Eng": "^#b9b5b2;PRODUCT"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/fruitpress.config": [
+        "/paneLayout/lblSchematics/value"
+      ],
+      "interface/windowconfig/xenostation.config": [
+        "/paneLayout/lblSchematics/value"
+      ]
+    },
+    "Texts": {
+      "Chs": "^#ffffff;蓝图",
+      "Eng": "^#ffffff;BLUEPRINTS"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/fruitpress.config": [
+        "/paneLayout/lblProducttitle/value"
+      ],
+      "interface/windowconfig/genesequencer.config": [
+        "/paneLayout/lblProducttitle/value"
+      ],
+      "interface/windowconfig/samplingarray2.config": [
+        "/paneLayout/lblProducttitle/value"
+      ],
+      "interface/windowconfig/xenostation.config": [
+        "/paneLayout/lblProducttitle/value"
+      ]
+    },
+    "Texts": {
+      "Chs": "^#ffffff;产品",
+      "Eng": "^#ffffff;PRODUCT"
+    }
+  }
+]

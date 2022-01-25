@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/thornitoxplant/thornitoxseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/thornitoxplant/wildthornitoxseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "棘刺种子",
+      "Eng": "Thornitox Seed"
+    }
+  }
+]

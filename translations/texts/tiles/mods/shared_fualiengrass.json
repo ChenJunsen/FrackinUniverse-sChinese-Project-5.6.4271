@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/mods/fualiengrass.matmod": [
+        "/description"
+      ],
+      "tiles/mods/fualiengrass2.matmod": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "未知的植物",
+      "Eng": "alien grass"
+    }
+  }
+]

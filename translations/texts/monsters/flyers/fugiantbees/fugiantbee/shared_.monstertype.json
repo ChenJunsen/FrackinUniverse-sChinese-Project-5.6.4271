@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/flyers/fugiantbees/fugiantbee/fuevilbee.monstertype": [
+        "/shortdescription"
+      ],
+      "monsters/flyers/fugiantbees/fugiantbee/fugiantbee2.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "巨型蜂后",
+      "Eng": "Giant Queen"
+    }
+  }
+]

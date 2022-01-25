@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/campbigpole.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/campbigpole.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "大帐篷杆",
+      "Eng": "Big Tent Pole"
+    }
+  }
+]

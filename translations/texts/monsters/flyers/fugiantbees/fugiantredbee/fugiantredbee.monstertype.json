@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/flyers/fugiantbees/fugiantredbee/fugiantredbee.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "巨型红色蜜蜂",
+      "Eng": "Giant Red Bee"
+    }
+  }
+]

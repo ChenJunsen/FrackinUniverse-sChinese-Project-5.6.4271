@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/goldenroot.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "^yellow;^reset;^cyan;+8 HP^reset;: 3m",
+      "Eng": "^yellow;^reset;^cyan;+8 HP^reset;: 3m"
+    }
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/oonfortaseed/oonfortaseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/oonfortaseed/wildoonfortaseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "奥弗塔球种子",
+      "Eng": "Oonforta Seed"
+    }
+  }
+]

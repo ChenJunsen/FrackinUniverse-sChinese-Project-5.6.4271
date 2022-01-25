@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/mods/blackslimegrass.matmod": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "黑色黏液",
+      "Eng": "Black slime"
+    }
+  }
+]

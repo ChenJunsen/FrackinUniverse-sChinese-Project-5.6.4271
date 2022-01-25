@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "particles/biooozemessage.particle": [
+        "/definition/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "^shadow;泥泞！",
+      "Eng": "^shadow;Ooze!"
+    }
+  }
+]

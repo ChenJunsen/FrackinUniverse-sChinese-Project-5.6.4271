@@ -1,0 +1,55 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/pixelgoods/fuokeahitechtoaster.object": [
+        "/subtitle"
+      ]
+    },
+    "Texts": {
+      "Chs": "新鲜吐司！",
+      "Eng": "Fresh Toasts!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/pixelgoods/fuokeahitechtoaster.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "高科技烤吐司机",
+      "Eng": "Hi-tech Toaster"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/pixelgoods/fuokeahitechtoaster.object": [
+        "/apexDescription",
+        "/avianDescription",
+        "/floranDescription",
+        "/glitchDescription",
+        "/humanDescription",
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "高科技烤吐司机。",
+      "Eng": "Hi-tech Toaster."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/pixelgoods/fuokeahitechtoaster.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "将面包片变的更美味，这机器真是太神奇了。",
+      "Eng": "Turns bread in to delicious toasts, it's magical!"
+    }
+  }
+]

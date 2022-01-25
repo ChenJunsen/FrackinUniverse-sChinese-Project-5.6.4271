@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/body/mechbodyfuobserver.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "探索恶劣的环境，抗性高",
+      "Eng": "For hostile environment exploration. Highly resistant."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/body/mechbodyfuobserver.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "探索者机甲臂",
+      "Eng": "Observer Mech Body"
+    }
+  }
+]

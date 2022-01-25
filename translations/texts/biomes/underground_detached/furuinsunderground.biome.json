@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/underground_detached/furuinsunderground.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Chs": "废墟洞穴",
+      "Eng": "Ruined Caverns"
+    }
+  }
+]

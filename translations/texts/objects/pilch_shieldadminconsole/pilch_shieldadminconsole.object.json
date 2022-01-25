@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/pilch_shieldadminconsole/pilch_shieldadminconsole.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "立场管理者控制器",
+      "Eng": "Field Admin Console"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/pilch_shieldadminconsole/pilch_shieldadminconsole.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "用于管理生成的立场。",
+      "Eng": "For administration of generated fields"
+    }
+  }
+]

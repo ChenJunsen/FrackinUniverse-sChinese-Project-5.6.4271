@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/lowgrav/lowgravavian.animation": [
+        "/particleEmitters/statustext/particles/0/particle/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "翼族",
+      "Eng": "avian"
+    }
+  }
+]

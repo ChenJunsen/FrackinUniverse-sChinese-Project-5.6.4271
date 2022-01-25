@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/fu_effects/resourceconvert/precursorregeneration.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "先驱之愈",
+      "Eng": "Precursor Regeneration"
+    }
+  }
+]

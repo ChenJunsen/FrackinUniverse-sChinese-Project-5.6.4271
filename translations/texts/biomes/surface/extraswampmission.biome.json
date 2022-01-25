@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/extraswampmission.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Chs": "额外沼泽生态",
+      "Eng": "extraswampmission"
+    }
+  }
+]

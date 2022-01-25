@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/tier5/hellfire/hellfirehelm.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "地狱火头盔",
+      "Eng": "Hellfire Helm"
+    }
+  }
+]

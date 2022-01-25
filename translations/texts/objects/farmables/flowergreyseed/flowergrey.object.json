@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/flowergreyseed/flowergrey.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "灰色花种子",
+      "Eng": "Gray Flower"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/thelusian/thelusianconsole/thelusianconsole.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Displays data in the illegible text of the Thelusians."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/thelusian/thelusianconsole/thelusianconsole.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thelusian Console"
+    }
+  }
+]

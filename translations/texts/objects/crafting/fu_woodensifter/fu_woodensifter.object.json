@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/fu_woodensifter/fu_woodensifter.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "这种萃取设备可用来从松散或粉状的块中提取有用材料。^cyan;需要^orange;2W^cyan;电力^reset;。",
+      "Eng": "This advanced Sifter efficiently extracts materials from loose or powdery materials. ^cyan;Requires ^orange;2W ^cyan;power.^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/fu_woodensifter/fu_woodensifter.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "^cyan;木制筛粉机^white;",
+      "Eng": "^cyan;Sifter^white;"
+    }
+  }
+]

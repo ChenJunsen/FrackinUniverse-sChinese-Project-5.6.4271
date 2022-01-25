@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/vanusflower/vanusflowerseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/vanusflower/wildvanusflowerseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "金星花种子",
+      "Eng": "Vanus Flower Seed"
+    }
+  }
+]

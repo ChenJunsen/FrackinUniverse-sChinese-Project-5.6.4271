@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/crates/beerkeg.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "嗯，啤酒。*嗝*",
+      "Eng": "A beer...keg. Mmm, beer."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/crates/beerkeg.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "啤酒酒桶",
+      "Eng": "Beer Keg"
+    }
+  }
+]

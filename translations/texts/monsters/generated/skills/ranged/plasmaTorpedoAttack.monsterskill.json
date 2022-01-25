@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/generated/skills/ranged/plasmaTorpedoAttack.monsterskill": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "*电离子鱼雷*",
+      "Eng": "PLASMA TORPEDO"
+    }
+  }
+]

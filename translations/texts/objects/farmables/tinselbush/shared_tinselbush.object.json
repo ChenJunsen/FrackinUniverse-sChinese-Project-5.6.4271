@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/tinselbush/tinselbush.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/tinselbush/wildtinselbush.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "金属镖种子",
+      "Eng": "Tinselbush"
+    }
+  }
+]

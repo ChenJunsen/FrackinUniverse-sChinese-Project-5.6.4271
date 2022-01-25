@@ -1,0 +1,11 @@
+
+
+.vscode
+
+*.markup
+script/test
+Pad.md
+/bak
+/mods
+/script/tools/__pycache__
+

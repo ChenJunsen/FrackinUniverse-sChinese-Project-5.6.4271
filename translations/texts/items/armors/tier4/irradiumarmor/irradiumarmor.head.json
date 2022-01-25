@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/tier4/irradiumarmor/irradiumarmor.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "镭制头盔",
+      "Eng": "Irradium Helm"
+    }
+  }
+]

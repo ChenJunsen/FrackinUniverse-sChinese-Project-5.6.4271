@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/tier3/furaider/furaider.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "袭击者胸甲",
+      "Eng": "Raider Armor"
+    }
+  }
+]

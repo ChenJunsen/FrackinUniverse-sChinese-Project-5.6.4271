@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/stuffeddunebun.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "这个登布面包里面塞满了肉和波庞薯，大满足！\n^cyan;+^white;20%^cyan;HP^gray;(^white;持续210s^gray;)^reset;",
+      "Eng": "A dunebun stuffed full of meat and bolbohn. An acquired taste.\n^cyan;+^white;20% ^cyan;HP ^gray;(^white;210s^gray;)^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/stuffeddunebun.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "夹肉登布面包",
+      "Eng": "Stuffed Dunebun"
+    }
+  }
+]

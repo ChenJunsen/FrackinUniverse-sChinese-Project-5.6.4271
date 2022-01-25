@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/fissionfurnace/moonstonebar.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "锻造过的特勒贝晶体。通常被发现于卫星。",
+      "Eng": "Forged Telebrium, commonly found on moons."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/fissionfurnace/moonstonebar.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "特勒贝晶体锭",
+      "Eng": "Telebrium Bar"
+    }
+  }
+]

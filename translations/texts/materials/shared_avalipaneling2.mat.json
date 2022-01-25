@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avalipaneling2.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/avalipaneling2.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "纵向面板",
+      "Eng": "Vertical Panels"
+    }
+  }
+]

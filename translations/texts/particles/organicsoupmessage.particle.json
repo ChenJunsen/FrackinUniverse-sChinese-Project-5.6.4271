@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "particles/organicsoupmessage.particle": [
+        "/definition/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "^shadow;生命回复+",
+      "Eng": "^shadow;Regen+"
+    }
+  }
+]

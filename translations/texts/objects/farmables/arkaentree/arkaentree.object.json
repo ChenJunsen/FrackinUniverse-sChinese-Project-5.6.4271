@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/arkaentree/arkaentree.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "奥肯刺种子",
+      "Eng": "Arkaen Bush"
+    }
+  }
+]

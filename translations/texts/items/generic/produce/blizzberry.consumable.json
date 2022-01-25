@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/blizzberry.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "^yellow;^reset;^cyan;免疫^reset;: 致命严寒, 液氮: 2m",
+      "Eng": "^yellow;^reset;^cyan;Immunity^reset;: Deadly Cold, Liquid Nitrogen: 2m"
+    }
+  }
+]

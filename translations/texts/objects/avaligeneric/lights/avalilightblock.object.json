@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaligeneric/lights/avalilightblock.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "光源方块",
+      "Eng": "Light Block"
+    }
+  }
+]

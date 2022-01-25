@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/furawwoodbaseboard.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "原木护壁板",
+      "Eng": "Raw Wood Baseboard"
+    }
+  }
+]

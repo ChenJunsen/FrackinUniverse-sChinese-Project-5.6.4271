@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "liquids/elderfluid.liquid": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "奇怪的，超凡的液体。",
+      "Eng": "Strange, otherworldly liquid."
+    }
+  }
+]

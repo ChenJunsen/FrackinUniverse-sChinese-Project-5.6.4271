@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/littlegoodberry/littlegoodberryseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/littlegoodberry/wildlittlegoodberryseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "小浆果种子",
+      "Eng": "Little Good Berry Seed"
+    }
+  }
+]

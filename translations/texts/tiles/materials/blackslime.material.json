@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/blackslime.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "非常黏稠的黑色黏液。",
+      "Eng": "extremely viscous black slime."
+    }
+  }
+]

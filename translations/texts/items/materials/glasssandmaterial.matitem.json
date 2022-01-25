@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/glasssandmaterial.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "一种精致闪耀的细小玻璃。请别被扎到！",
+      "Eng": "A fine glittering glass sand. Watch your step!"
+    }
+  }
+]

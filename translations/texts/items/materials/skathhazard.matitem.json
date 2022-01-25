@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/skathhazard.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "绘世者危险方块",
+      "Eng": "Skath Hazard Block"
+    }
+  }
+]

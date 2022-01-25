@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/littlegoodberry.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "^yellow;^reset;^cyan;伤害 x1.15^reset;: 1m",
+      "Eng": "^yellow;^reset;^cyan;Damage x1.15^reset;: 1m"
+    }
+  }
+]

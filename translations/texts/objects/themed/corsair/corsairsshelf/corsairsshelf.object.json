@@ -1,0 +1,68 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/corsair/corsairsshelf/corsairsshelf.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A barrel wood shelf stocked with all kinds of rum and booze. Actually I lied, it's mostly rum."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/corsair/corsairsshelf/corsairsshelf.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A vending machine for strong drinks. They will have to do."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/corsair/corsairsshelf/corsairsshelf.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Corsair's Minibar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/corsair/corsairsshelf/corsairsshelf.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I might as well help myself to a few drinks while I'm here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/corsair/corsairsshelf/corsairsshelf.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "That is... a worrying amount of alcohol."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/corsair/corsairsshelf/corsairsshelf.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Where's the rum gone?"
+    }
+  }
+]

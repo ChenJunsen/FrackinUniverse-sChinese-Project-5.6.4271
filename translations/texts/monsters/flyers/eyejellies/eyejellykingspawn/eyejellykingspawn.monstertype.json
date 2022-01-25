@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/flyers/eyejellies/eyejellykingspawn/eyejellykingspawn.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "一头黏液巨兽的眼睛。",
+      "Eng": "The eye of a gelatinous behemoth."
+    }
+  }
+]

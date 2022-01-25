@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/weapons/fu_weaponlongsword.collection": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Chs": "[FU] 骑士武库",
+      "Eng": "[FU] Knight's Arsenal"
+    }
+  }
+]

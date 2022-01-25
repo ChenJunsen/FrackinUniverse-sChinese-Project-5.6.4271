@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/melodistar/melodistarseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/melodistar/wildmelodistarseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "旋律星种子",
+      "Eng": "Melodistar Seed"
+    }
+  }
+]

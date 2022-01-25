@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/fu_effects/percenthealthboost/negativehealth5.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "5% 最大HP减少",
+      "Eng": "5% Less HP"
+    }
+  }
+]

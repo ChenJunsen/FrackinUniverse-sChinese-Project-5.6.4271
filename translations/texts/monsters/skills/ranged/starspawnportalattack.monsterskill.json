@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/skills/ranged/starspawnportalattack.monsterskill": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "*血魔法*",
+      "Eng": "BLOOD MAGIC"
+    }
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/power/isn_thermalgenerator/isn_thermalgenerator.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fuel-burning generator. It can generate roughly 10W or higher based on fuel type used. ^blue;Left Input^reset;: Power Switch"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/power/isn_thermalgenerator/isn_thermalgenerator.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "叶族人不喜欢发热热热又吵的机器。",
+      "Eng": "Floran not like hot noisssy machine."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/power/isn_thermalgenerator/isn_thermalgenerator.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "原始的利用燃料的方法。但是，它确实有效。",
+      "Eng": "Fossil fuel generation. Crass and primitive. It is, however, effective."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/power/isn_thermalgenerator/isn_thermalgenerator.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "我不是重工业的粉丝。",
+      "Eng": "I'm not a fan of heavy industry."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/power/isn_thermalgenerator/isn_thermalgenerator.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Chs": "它设计有可更换的部件，以减少维修成本。",
+      "Eng": "It is designed with replaceable parts to minimize repair costs."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/power/isn_thermalgenerator/isn_thermalgenerator.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "低阶层的猿族房屋基本都是靠近这类发电机。它发出的恒定的噪音将让你无法安眠。",
+      "Eng": "Low-class Apex housing is usually near generators like these. The constant noise prevents you from getting any good sleep."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/power/isn_thermalgenerator/isn_thermalgenerator.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "这将产生很大的能量，但它会消耗燃料。",
+      "Eng": "This'll generate a lot of power, but it'll eat up fuel."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/power/isn_thermalgenerator/isn_thermalgenerator.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "^cyan;内燃式发电机^white;",
+      "Eng": "^cyan;Combustion Generator^white;"
+    }
+  }
+]

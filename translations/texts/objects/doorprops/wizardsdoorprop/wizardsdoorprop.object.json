@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/doorprops/wizardsdoorprop/wizardsdoorprop.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "巫师门",
+      "Eng": "Wizard's Door Prop"
+    }
+  }
+]

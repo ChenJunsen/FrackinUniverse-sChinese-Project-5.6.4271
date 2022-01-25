@@ -1,0 +1,578 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/fu_resources.radiomessages": [
+        "/pickupRaptoregg/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "一颗奇特的恐龙蛋？！哇！但是我们可以用它来做什么呢？",
+      "Eng": "A freakin' DINOSAUR EGG?!??! Wow! What can we do with it, I wonder?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/fu_resources.radiomessages": [
+        "/pickupMethanol/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "作为一种天然的酒精，甲醇有多种实验用途。如果你想要更多，可以从木料中萃取。",
+      "Eng": "A natural alcohol, Methanol can be used in a variety of ways in your lab. You'll likely want a decent amount of it. You best get it from extracting wood."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/fu_resources.radiomessages": [
+        "/pickupTissueculture/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "组织培养物是在涉及到遗传学中必不可少的实验材料，它会帮助你开拓全新的遗传学领域！",
+      "Eng": "Absolutely essential in lab work involving genetics, tissue cultures open the gate to whole new areas of experimentation."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/fu_resources.radiomessages": [
+        "/pickupPlastic/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "多亏了高级塑料这种先进的有用材料，你可以展开更高级别的研究了。如果你想要更多的高级塑料，就多种点蕨树吧。",
+      "Eng": "Advanced Plastic. You've opened up a whole new branch of research thanks to this helpful material. You will need quite a bit. Plant Bracken trees."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/fu_resources.radiomessages": [
+        "/pickupShoggoth/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "好吧...我觉得你不应该碰从那个可怕生物身上掉下来的肉。不过，我觉得应该会派上用场的。",
+      "Eng": "Allright...you probably shouldn't have touched this stuff. Flesh from that hideous beast. Ew. But I am positive it will be useful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/fu_resources.radiomessages": [
+        "/pickupCalciumnitrate/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "如果你打算让你的作物产量提高，那么硝酸钙是必需的，它最主要的用处是可以制成肥料或杀虫剂。",
+      "Eng": "Another essential element in pesticides and fertilizers, you'll need some of this stuff if you plan to have a profitable, viable farm."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/fu_resources.radiomessages": [
+        "/pickupRawminerals/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "矿物原料可以从大多数石头中通过萃取获得。请尽可能地储存多一些。",
+      "Eng": "Another staple ingredient in the lab, raw minerals can be easily obtained from most types of stone via extraction. Stockpile as much as possible."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/fu_resources.radiomessages": [
+        "/pickupBambooshoot/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "竹子在你的科学实验中并没有什么用处，不过它或许可以建个漂亮的林中小屋！",
+      "Eng": "Bamboo will have little use in your lab, but it might just help you build a fancy jungle hut!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/fu_resources.radiomessages": [
+        "/pickupBiospore/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "生化孢子有着发出生物荧光的能力，可以制作出许多方便实用的东西。快去试试吧！",
+      "Eng": "Bio-spores have a great bioluminescent property that gives them some handy utility in your laboratory creations. Check it out!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/fu_resources.radiomessages": [
+        "/pickupAlgae/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "藻豆荚即可以作为生物燃料，那样会让你的星际旅行更为便捷，也可以作为有机物研究实验的对象。",
+      "Eng": "Biofuel and organic research are two direct benefits to harvesting large amounts of algae. It can make all the difference in travel."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/fu_resources.radiomessages": [
+        "/pickupCircuitboard/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "当涉及到高端技术时，电路板是必需的。它可以制造出令人叹服的科学设备。",
+      "Eng": "Circuitboards are somewhat essential when it comes to higher-end tech. Higher-end boards produce amazing machines."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/fu_resources.radiomessages": [
+        "/pickupCorvex/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "粘合剂可以称得上是实验室中的奇迹。它所能做的简直超越了科学，它可以把两种完全不一样分子结合在一起。",
+      "Eng": "Corvex is sort of a laboratory miracle. It does things beyond science: it can bridge impossible elements together."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/fu_resources.radiomessages": [
+        "/pickupHelium/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "氦-3既是燃料又是能源。当在大气层中时，它会呈现一种不寻常的效果，会让你的探索更为有趣。",
+      "Eng": "Helium-3 is both a fuel and energy source. It also creates an unusual effect when in large clouds, leading to hilarity in exploration."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/fu_resources.radiomessages": [
+        "/pickupHydrogen/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "氢气有着多方面的应用，但是你会发现它最适合于化学以及基因研究。",
+      "Eng": "Hydrogen gas can be applied in a variety of ways, though you'll find it best suited in genetic research and chemistry."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/fu_resources.radiomessages": [
+        "/pickupDnasample/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "DNA样本是萃取物中最常见的物质，但如果你想要进行大量的基因研究的话，那么你将需要成吨的DNA样本。",
+      "Eng": "I'm sure it is obvious, but you're going to need tons of DNA Samples if you intend on doing a serious amount of genetics research."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/fu_resources.radiomessages": [
+        "/pickupKoanite/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "Koanite是一种经提取后为实验提供直接好处的矿物。你所需要做的就是把它放入物质萃取器！",
+      "Eng": "Koanite is another extractable ore that provides direct benefits to your lab work. Place in your extractor and off you go!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/fu_resources.radiomessages": [
+        "/pickupMethyliodide/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "甲基碘只有一种用途：制作杀虫剂。它可以帮助作物托盘里的作物好好成长！",
+      "Eng": "Methyl Iodide has but one use, and that is in the creation of pesticides. These help with hydroponics trays, producing more valuable resources."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/fu_resources.radiomessages": [
+        "/fuMiningGun/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "激光挖掘器是一个非常有用的物质枪的替代品。它们可以单手持有，而且可以在^orange;工具升级站^reset;升级至多20次。你可以在你的加工台制造一个。它们非常强力，值得为你所用。",
+      "Eng": "Mining lasers are a useful alternative to a Manipulator. They can function one-handed, and can be upgraded up to 20 times in a ^orange;Tool Upgrade Table^reset; once you build one. You'll find one in your Machining Table. It's worth it. They get quite powerful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/fu_resources.radiomessages": [
+        "/pickupSpareparts/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "备用零件或许是你多余的收集物中的其中一种，不过你是不是可以尝试把钨提炼出来？快来试试吧！",
+      "Eng": "Miscellaneous pieces of metal may seem odd to collect until you consider the tungsten they can be extracted for. Try it. You'll see!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/fu_resources.radiomessages": [
+        "/pickupMutaviskthread/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "快去你的实验设备上看看飞螳丝到底可以制作出什么吧，它一定会让你大吃一惊的。",
+      "Eng": "Mutavisk silk woven into thread, ready for application in the lab. I think you'll be pleased with what it can do for you."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/fu_resources.radiomessages": [
+        "/pickupNitrogen/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "氮气存在于任何地方，当然了，如果你没有找错地方的话。我想在研究中你会需要到大量氮气的。",
+      "Eng": "Nitrogen can be found in abundance all over the place if you know where to look. You'll want a fair amount of it in your research."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/fu_resources.radiomessages": [
+        "/pickupBlobbushjelly/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "腐泥非常稀有，另外它也非常粘稠。不过你会发现它在化学研究上有着相当有趣的用途。",
+      "Eng": "Putrid Slime is rare, and really quite gross. But, you'll find it has a few rather interesting uses through chemistry."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/fu_resources.radiomessages": [
+        "/pickupNutrientpaste/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "营养糊由食物萃取的糊状物。它是实验室的主要原料，你会需要大量这种物质。",
+      "Eng": "Raw, untarnished paste created from small samples of material. This is a staple in every lab, and you'll go through a ton of it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/fu_resources.radiomessages": [
+        "/fuRepairGun/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "机甲修复枪允许你在领域范围内修复你的机甲。它们可以在^orange;工具升级站^reset;升级至多20次。你可以在你的加工台制造一个。它们非常强力，值得为你所用。",
+      "Eng": "Repair Guns allow you to repair your Mech in the field. They can be upgraded up to 20 times in a ^orange;Tool Upgrade Table^reset; once you build one. You'll find one in your Machining Table. It's worth it. They get quite powerful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/fu_resources.radiomessages": [
+        "/pickupResin/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "树脂是一种坚硬的物质，主要用于制作保护性护甲。",
+      "Eng": "Resin is a hard substance that has applications primarily in protective gear."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/fu_resources.radiomessages": [
+        "/pickupSalt/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "钠是一种普遍存在的物质，尤其在水中。它适用于绝大多数科学研究。",
+      "Eng": "Salt is quite abundant (especially in water) and applied as a resource in numerous scientific branches."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/fu_resources.radiomessages": [
+        "/pickupSilicon/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "硅有着广泛的应用，我们主要将其用于制造微型芯片的设备。请多储备一些，你会需要到它们的。",
+      "Eng": "Silicon has a range of uses, though for our purposes it will be used for technological devices such as microchips. Get more, you'll need it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/fu_resources.radiomessages": [
+        "/pickupSilk/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "丝绸是一种高品质的纺织品，有着许多广泛的应用。",
+      "Eng": "Silk is a high quality textile that has many useful applications."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/fu_resources.radiomessages": [
+        "/pickupGreenslime/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "绿色黏液看上去没什么用，实际上你可以在做出很多有趣的玩意儿。例如，一件由黏液制成的护甲？",
+      "Eng": "Slimey goop may not seem useful, until you actually use some in a lab. Imagine, armor made of slime? It might come in handy..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/fu_resources.radiomessages": [
+        "/pickupMineralsample/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "矿物样品是实验中不可或缺的材料。没有它，你将无法种植出高等植物。",
+      "Eng": "Strictly for lab use, mineral samples none the less prove to be essential. Without them you'll be unable to produce advanced plant life."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/fu_resources.radiomessages": [
+        "/pickupMutavisksilk/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "飞螳丝有着超强韧性，超高的可塑性以及可以抵抗所有辐射。看来你已经明白这种材料如果运用到护甲上是多么完美了吧！",
+      "Eng": "Super tough, super malleable and utterly resistant to radiation of almost all sorts. Can you see how this is useful in clothing and armor?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/fu_resources.radiomessages": [
+        "/pickupMagnesiumpowder/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "镁粉既可以用于制作先进基因，又可以活化极其稳定的粒子物质。",
+      "Eng": "Take this magnesium powder and use it to create advanced genes, or to help destabilize otherwise completely stable particles."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/fu_resources.radiomessages": [
+        "/fuArtifact/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "这件古代遗物看起来极有价值！你可以卖掉它以获取大量像素...或许你还会发现其他的用途。",
+      "Eng": "This ancient relic looks quite valuable! You could sell it for exorbitant amounts of pixels...or perhaps you'll find other uses."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/fu_resources.radiomessages": [
+        "/pickupPesticide/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "相信我，这一桶杀虫剂绝不是为了饮用而制造出来的。事实上，它的味道相当糟糕。但你可以使用它保护你的作物，让它更好的生长。",
+      "Eng": "This barrel of pesticide is not for drinking. Trust me. Tastes awful. But you can use it in the creation and growth of amazing plants!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/fu_resources.radiomessages": [
+        "/pickupGeneticmaterial/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "遗传物质是你研究基因工程最关键的材料！",
+      "Eng": "This sample of genetic material will prove to be an absolute necessity in your laboratory."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/fu_resources.radiomessages": [
+        "/pickupAgaranichor/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "真菌脓液，其实这种奇怪材料本质上就是由真菌构成的，它可以黏在任何有机物上。",
+      "Eng": "This strange substance is fungal in nature, with a sort of sticky property that adheres to any organic matter."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/fu_resources.radiomessages": [
+        "/pickupEndomorphicJelly/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "内胚层体型胶状物，这种物质相当诡异，但却很容易被塑形。这意味着由它所制成的各种道具都是非常奇怪的。",
+      "Eng": "This stuff is bizarre, but can be shaped very specifically with relative ease. This means weapons, armor and equipment of a most odd sort."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/fu_resources.radiomessages": [
+        "/pickupBlisterextract/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "泡荚提取物这种材料真是让人又爱又恨，因为在提纯之前，它闻起来就像粪便一样臭，但它却有着各种特殊的用途。",
+      "Eng": "This stuff is quite repulsive, actually. Blister Extract stinks like excrement before refinement, but has many exceptional uses."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/fu_resources.radiomessages": [
+        "/pickupShadowgas/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "暗影气体会发出着强烈的恶臭，除了会减慢你的移动速度之外，还可能给你造成心理与免疫系统造成长期的损伤。",
+      "Eng": "This vile gas really screws up your movement ability within it, and can cause long-term damage to the psyche and immune system."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/fu_resources.radiomessages": [
+        "/pickupMagnesiumsulfate/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "主要用于医疗和农业练习。它还是一种非常有用的静脉药物添加剂，也是肥料的重要材料。",
+      "Eng": "Used primarily in medical and agricultural practices. It makes for a very handy additive in some intravenous drugs, or soil enrichment from fertilizers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/fu_resources.radiomessages": [
+        "/pickupNodule/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "这到底是什么鬼东西？我们应该把它带回去好好研究研究。我敢打赌这玩意儿有着极高的价值。",
+      "Eng": "What the heck is this thing? We should probably bring it to the lab to try it out. I bet it does something gross!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/fu_resources.radiomessages": [
+        "/pickupOxygen/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "谁不喜欢氧气呢？对吧，呼吸是最重要的事！但氧气除了可以用于呼吸之外还有更多用处。快去你的实验室里看看吧。",
+      "Eng": "Who doesn't love oxygen, am I right? Breathing is great! But oxygen has many other uses. Poke around in your lab and see."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/fu_resources.radiomessages": [
+        "/pickupIodine/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "有了碘，石墨烯和甲基碘的制造就会变得相对简单。我愿意收集得像你一样多。",
+      "Eng": "With iodine handy graphene and methyl iodide become relatively simple to produce. I'd collect as much as you can."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/fu_resources.radiomessages": [
+        "/pickupLeather/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "有了皮革，你可以做出一些超棒的护甲保护你。或者你打算做一双雨靴好在下雨天时穿？",
+      "Eng": "With leather, you can fashion some wonderful protection from harm or the elements. You'll probably want a bit of this for a rainy day."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/fu_resources.radiomessages": [
+        "/pickupFertilizer/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "在不使用肥料的情况下，作物长至成熟需要花费更多时间，请记得一定要使用它，尤其是你有了作物托盘之后！",
+      "Eng": "Without fertilizer you'll have a tougher time making and growing plants. It is especially useful in Hydroponics trays!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/fu_resources.radiomessages": [
+        "/fuCrewContractInvalidLocation/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "你不能在这里使用船员合同。",
+      "Eng": "You cannot use that crew contract here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/fu_resources.radiomessages": [
+        "/pickupAmmoniumsulfate/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "你的研究会需要到大量的硫酸铵，没有它，你将无法生产出更高品质的肥料！",
+      "Eng": "You'll need a fair amount of Ammonium Sulfate in your lab work. Without it you'll be unable to produce high quality fertilizers!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/fu_resources.radiomessages": [
+        "/pickupBone/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "看来你发现了一些骨头。虽然它有些粗糙和原始，但它却可以制造出各种有用的物质，例如武器或护甲。",
+      "Eng": "You've found some bone. While somewhat grisly and primitive it can still produce various useful goods including weapons and armor."
+    }
+  }
+]

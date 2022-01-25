@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/isotopes/neptuniumradien.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "食用镎",
+      "Eng": "Edible Neptunium"
+    }
+  }
+]

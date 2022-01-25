@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/fulegacyscripts/ground/skills/burrowspecial.monsterskill": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "*挖掘*",
+      "Eng": "BURROW"
+    }
+  }
+]

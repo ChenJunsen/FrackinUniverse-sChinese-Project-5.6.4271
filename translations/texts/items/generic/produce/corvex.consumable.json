@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/corvex.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "凸球萌芽果",
+      "Eng": "Corvex Blob"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/corvex.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "^yellow;^reset;^cyan;+100%生命吸取^reset;: 30s",
+      "Eng": "^yellow;^reset;^cyan;+100% Life Steal^reset;: 30s"
+    }
+  }
+]

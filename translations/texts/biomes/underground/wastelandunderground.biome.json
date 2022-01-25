@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/underground/wastelandunderground.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Chs": "废土地层",
+      "Eng": "wastelandunderground"
+    }
+  }
+]

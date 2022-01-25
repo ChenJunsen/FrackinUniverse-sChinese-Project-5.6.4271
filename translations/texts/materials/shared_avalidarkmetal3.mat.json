@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avalidarkmetal3.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/avalidarkmetal3.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "黑暗金属横梁",
+      "Eng": "Dark Metal Beam"
+    }
+  }
+]

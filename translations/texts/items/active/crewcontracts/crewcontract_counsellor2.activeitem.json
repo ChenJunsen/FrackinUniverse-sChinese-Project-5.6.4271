@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/crewcontracts/crewcontract_counsellor2.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mental health expert. Reduces madness effects up to 40%. Reduces fuel costs by 2%."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/crewcontracts/crewcontract_counsellor2.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "合同：随船心理师",
+      "Eng": "Ship Psychologist Contract"
+    }
+  }
+]

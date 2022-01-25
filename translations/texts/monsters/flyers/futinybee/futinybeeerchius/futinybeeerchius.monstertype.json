@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/flyers/futinybee/futinybeeerchius/futinybeeerchius.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "被感染的蜜蜂",
+      "Eng": "Infected Bee"
+    }
+  }
+]

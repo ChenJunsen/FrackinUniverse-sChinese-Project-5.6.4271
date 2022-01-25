@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/crew/scienceparkanpc/sciencefunpc.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "能够承受最严酷的寒冷。",
+      "Eng": "Capable of withstanding the harshest cold."
+    }
+  }
+]

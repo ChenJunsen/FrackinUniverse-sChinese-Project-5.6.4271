@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/crystalsand.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "结晶沙",
+      "Eng": "Crystalline Sand"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/crystalsand.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "晶莹剔透的沙子。",
+      "Eng": "sparkling crystalline sand."
+    }
+  }
+]

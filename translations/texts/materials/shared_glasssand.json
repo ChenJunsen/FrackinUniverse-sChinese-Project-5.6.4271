@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/glasssandmaterial.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/glasssand.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "玻璃沙",
+      "Eng": "Glass Sand"
+    }
+  }
+]

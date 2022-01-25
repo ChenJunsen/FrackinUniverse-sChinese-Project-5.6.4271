@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/staff/orestaffs/corruptstaff.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "腐化法杖",
+      "Eng": "Corrupt Staff"
+    }
+  }
+]

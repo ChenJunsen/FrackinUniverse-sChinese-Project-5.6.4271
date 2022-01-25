@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/minibiome/honey/hiveblob1/hiveblob1.object": [
+        "/shortdescription"
+      ],
+      "objects/minibiome/honey/hiveblob2/hiveblob2.object": [
+        "/shortdescription"
+      ],
+      "objects/minibiome/honey/hiveblob3/hiveblob3.object": [
+        "/shortdescription"
+      ],
+      "objects/minibiome/honey/hiveblob4/hiveblob4.object": [
+        "/shortdescription"
+      ],
+      "objects/minibiome/honey/hiveblob5/hiveblob5.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "蜂蜜团",
+      "Eng": "Honey Blob"
+    }
+  }
+]

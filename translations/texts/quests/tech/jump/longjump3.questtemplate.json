@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/tech/jump/longjump3.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "更棒的浮空跳！",
+      "Eng": "Even more fluttery!"
+    }
+  }
+]

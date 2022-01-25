@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/methanol.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "甲醇",
+      "Eng": "Methanol"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/methanol.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "这种轻而易挥发的酒精是从木材中破坏性提取而得的。",
+      "Eng": "This light, volatile alcoholis produced from destructive extraction from wood."
+    }
+  }
+]

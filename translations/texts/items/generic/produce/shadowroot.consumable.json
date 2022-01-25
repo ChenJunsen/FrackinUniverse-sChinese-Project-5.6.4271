@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/shadowroot.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "暗影草",
+      "Eng": "Shadowroot Spike"
+    }
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/itaseed/itaseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/itaseed/wilditaseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "伊达花种子",
+      "Eng": "Ita Flower Seed"
+    }
+  }
+]

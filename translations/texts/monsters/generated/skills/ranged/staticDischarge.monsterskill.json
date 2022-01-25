@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/generated/skills/ranged/staticDischarge.monsterskill": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "*静电释放*",
+      "Eng": "STATIC DISCHARGE"
+    }
+  }
+]

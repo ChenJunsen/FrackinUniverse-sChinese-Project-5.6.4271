@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/loot/healing/antipsychotics.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "^#77acc3;抗精神病药物^white;",
+      "Eng": "^#77acc3;Anti-Psychotics^white;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/loot/healing/antipsychotics.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "^cyan;+^white;25%^cyan;精神抗性^gray;(^white;60s^gray;)^reset;",
+      "Eng": "^cyan;+^white;25% ^cyan;Mental Protection ^gray;(^white;60s^gray;)^reset;"
+    }
+  }
+]

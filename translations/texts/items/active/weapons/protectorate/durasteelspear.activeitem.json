@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/protectorate/durasteelspear.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "一把相当精美的耐钢矛。",
+      "Eng": "A durasteel spear. Among the finest."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/protectorate/durasteelspear.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "耐钢矛",
+      "Eng": "Durasteel Spear"
+    }
+  }
+]

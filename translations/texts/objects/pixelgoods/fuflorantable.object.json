@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/pixelgoods/fuflorantable.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "真是舒适。",
+      "Eng": "Built for comfort and leafiness."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/pixelgoods/fuflorantable.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "多叶桌子",
+      "Eng": "Leafy Table"
+    }
+  }
+]

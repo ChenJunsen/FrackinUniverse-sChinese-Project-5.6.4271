@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaligeneric/containers/avalistoragelocker.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "储物柜",
+      "Eng": "Storage Locker"
+    }
+  }
+]

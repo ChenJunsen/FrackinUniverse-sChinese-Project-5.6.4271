@@ -1,0 +1,50 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/charredbonematerial.matitem": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "一堆烧焦的骨头。谁需要他们！",
+      "Eng": "Bunch of charred bones. Who needs 'em!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/charredbonematerial.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "烧焦的骨头",
+      "Eng": "Charred Packed Bones"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/charredbonematerial.matitem": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Chs": "各种来源的烧焦的骨头堆积在一起。",
+      "Eng": "Charred bones from a variety of sources packed together."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/charredbonematerial.matitem": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "烧焦的骨骨骨头！",
+      "Eng": "Charred bonesss!"
+    }
+  }
+]

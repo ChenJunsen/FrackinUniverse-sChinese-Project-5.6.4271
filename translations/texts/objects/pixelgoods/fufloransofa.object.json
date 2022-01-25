@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/pixelgoods/fufloransofa.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "多叶沙发",
+      "Eng": "Leafy Couch"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/pixelgoods/fufloransofa.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "不错的休息家具。",
+      "Eng": "Perfect for resting"
+    }
+  }
+]

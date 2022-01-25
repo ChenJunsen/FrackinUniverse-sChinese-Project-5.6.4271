@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/honeyextractor/elderhoneyjar.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Has the consistency of cat puke.\n^pink;Insanity ^cyan;Immunity ^gray;(^white;5m^gray;)^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/honeyextractor/elderhoneyjar.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "未知物质",
+      "Eng": "Unknown Substance"
+    }
+  }
+]

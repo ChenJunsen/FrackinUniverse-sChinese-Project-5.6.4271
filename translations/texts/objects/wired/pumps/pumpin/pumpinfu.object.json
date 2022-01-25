@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/pumps/pumpin/pumpinfu.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "液体输入泵",
+      "Eng": "Liquid Mover Input"
+    }
+  }
+]

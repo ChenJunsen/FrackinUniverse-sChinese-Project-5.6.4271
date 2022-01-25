@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/dagger/advalloydagger.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "宗师匕首",
+      "Eng": "Master's Dagger"
+    }
+  }
+]

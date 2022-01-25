@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/skills/ranged/poisonvomitattack.monsterskill": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "*毒素喷吐*",
+      "Eng": "POISON VOMIT"
+    }
+  }
+]

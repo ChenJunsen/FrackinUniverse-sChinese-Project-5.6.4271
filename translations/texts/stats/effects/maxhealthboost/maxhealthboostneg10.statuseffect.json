@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/maxhealthboost/maxhealthboostneg10.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "生命值上限-10",
+      "Eng": "-10 Health"
+    }
+  }
+]

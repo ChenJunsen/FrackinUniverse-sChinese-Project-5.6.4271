@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/farming/robothen/furobothen.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "电子鸡",
+      "Eng": "Robot Hen"
+    }
+  }
+]

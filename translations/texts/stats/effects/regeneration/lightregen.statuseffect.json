@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/regeneration/lightregen.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "日光疗愈",
+      "Eng": "Daylight Regen"
+    }
+  }
+]

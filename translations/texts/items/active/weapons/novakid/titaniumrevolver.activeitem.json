@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/novakid/titaniumrevolver.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "一把非常棒的手枪。",
+      "Eng": "A large handgun that packs a punch."
+    }
+  }
+]

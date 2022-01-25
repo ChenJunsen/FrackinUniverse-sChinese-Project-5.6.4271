@@ -1,0 +1,32 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/bloodsandmaterial.matitem": [
+        "/description"
+      ],
+      "tiles/materials/bloodstone/bloodsand.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "像你的内脏一样红。",
+      "Eng": "As red as your insides."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/bloodsandmaterial.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/bloodstone/bloodsand.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "血沙",
+      "Eng": "Blood Sand"
+    }
+  }
+]

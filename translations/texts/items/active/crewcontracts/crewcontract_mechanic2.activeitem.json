@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/crewcontracts/crewcontract_mechanic2.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "合同：机械师 II",
+      "Eng": "Mechanic II Contract"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/crewcontracts/crewcontract_mechanic2.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reduces fuel costs by 20% and decreases ship mass by 20%."
+    }
+  }
+]

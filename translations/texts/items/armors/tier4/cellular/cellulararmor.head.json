@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/tier4/cellular/cellulararmor.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "细胞头盔",
+      "Eng": "Cellular Helm"
+    }
+  }
+]

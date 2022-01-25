@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/doorprops/roundeddoorprop/roundeddoorprop.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "圆形门",
+      "Eng": "Rounded Door Prop"
+    }
+  }
+]

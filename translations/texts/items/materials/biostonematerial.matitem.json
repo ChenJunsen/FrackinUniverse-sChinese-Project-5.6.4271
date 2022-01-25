@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/biostonematerial.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "密度大，且富含矿物。",
+      "Eng": "Dense and loaded with minerals."
+    }
+  }
+]

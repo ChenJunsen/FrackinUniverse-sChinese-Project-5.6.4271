@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/soulleaf/fusoulleafseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "魂叶种子",
+      "Eng": "Soulleaf Seed"
+    }
+  }
+]

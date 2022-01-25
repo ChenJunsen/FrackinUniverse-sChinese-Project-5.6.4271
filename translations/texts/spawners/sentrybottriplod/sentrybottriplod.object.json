@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "spawners/sentrybottriplod/sentrybottriplod.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "三足机器人",
+      "Eng": "Triplod Guard"
+    }
+  }
+]

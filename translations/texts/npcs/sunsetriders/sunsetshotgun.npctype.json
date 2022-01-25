@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/sunsetriders/sunsetshotgun.npctype": [
+        "/scriptConfig/dialog/attack/default/default/7"
+      ]
+    },
+    "Texts": {
+      "Chs": "有传言说我不太友好。",
+      "Eng": "There's rumors I ain't too friendly."
+    }
+  }
+]

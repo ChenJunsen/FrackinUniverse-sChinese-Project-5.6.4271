@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/blackslimematerial.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/blackslime.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "黑色黏液",
+      "Eng": "Black Slime"
+    }
+  }
+]

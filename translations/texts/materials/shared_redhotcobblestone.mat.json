@@ -1,0 +1,62 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/redhotcobblestone.matitem": [
+        "/description"
+      ],
+      "tiles/materials/redhotcobblestone.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "一种又坚硬又光滑的石头，非常炽热！",
+      "Eng": "Hard stones, smooth to the touch, heated to incandescent temperatures!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/redhotcobblestone.matitem": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/materials/redhotcobblestone.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Chs": "非常炽热的鹅卵石。",
+      "Eng": "High temperature cobblestones."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/redhotcobblestone.matitem": [
+        "/floranDescription"
+      ],
+      "tiles/materials/redhotcobblestone.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "鹅卵卵卵石好烫。",
+      "Eng": "Hot cobblessstone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/redhotcobblestone.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/redhotcobblestone.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "灼热的鹅卵石",
+      "Eng": "Red-Hot Cobblestone"
+    }
+  }
+]

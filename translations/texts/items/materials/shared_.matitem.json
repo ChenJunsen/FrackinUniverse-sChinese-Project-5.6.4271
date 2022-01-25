@@ -1,0 +1,32 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/hardslimeblock.matitem": [
+        "/floranDescription"
+      ],
+      "items/materials/slimeshipsupport.matitem": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "叶族人喜喜欢硬粘粘粘液！",
+      "Eng": "Floran lovess hard sslime!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/redsand.matitem": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "items/materials/redsand2.matitem": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Chs": "红色沙子。",
+      "Eng": "Red sand."
+    }
+  }
+]

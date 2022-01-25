@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/other/flight_avian.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "缓慢降落(翼族)",
+      "Eng": "Avian Slowfall"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/other/flight_avian.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "你的种族可以滑翔……一点点。\n激活：^green;[F]^reset;",
+      "Eng": "Your race can glide...just a bit. Use ^green;[F]^reset;."
+    }
+  }
+]

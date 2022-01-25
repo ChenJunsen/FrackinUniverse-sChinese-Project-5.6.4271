@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/fusnowberry.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "^yellow;^reset;^cyan;免疫^reset;: 雪, 雪泥, 冰面: 3m",
+      "Eng": "^yellow;^reset;^cyan;Immunity^reset;: Snow, Slush, Icy: 3m"
+    }
+  }
+]

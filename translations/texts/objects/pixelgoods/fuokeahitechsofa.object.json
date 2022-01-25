@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/pixelgoods/fuokeahitechsofa.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "高科技沙发",
+      "Eng": "Hi-tech Couch"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/pixelgoods/fuokeahitechsofa.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "完美的工艺。",
+      "Eng": "Perfect for casting"
+    }
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/boss/shoggoth/skills/shoggothacidattack.monsterskill": [
+        "/label"
+      ],
+      "monsters/boss/shoggoth/skills/shoggothacidattack2.monsterskill": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "酸液攻击",
+      "Eng": "Acid Attack"
+    }
+  }
+]

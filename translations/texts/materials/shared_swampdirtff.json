@@ -1,0 +1,18 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/swampdirtffmaterial.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/swampdirtff.material": [
+        "/description",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "沼泽土块",
+      "Eng": "Swamp Dirt"
+    }
+  }
+]

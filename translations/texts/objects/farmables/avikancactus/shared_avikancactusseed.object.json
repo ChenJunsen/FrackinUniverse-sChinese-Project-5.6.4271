@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/avikancactus/avikancactusseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/avikancactus/wildavikancactusseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "卡达文仙人掌种子",
+      "Eng": "Kadavan Cactus Seed"
+    }
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/pumps/pumpout/pumpoutfu.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "液体输出泵",
+      "Eng": "Liquid Mover Pump"
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/liquids/liquidblacktar.liqitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "一定量的焦油。",
+      "Eng": "A measure of viscous tar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/liquids/liquidblacktar.liqitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "焦油",
+      "Eng": "Black Tar"
+    }
+  }
+]

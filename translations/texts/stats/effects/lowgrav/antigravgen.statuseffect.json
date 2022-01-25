@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/lowgrav/antigravgen.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "反重力场",
+      "Eng": "Anti-Gravity Field"
+    }
+  }
+]

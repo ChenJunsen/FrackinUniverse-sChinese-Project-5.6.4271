@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/generated/ground/skills/fumeleeAttack.monsterskill": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "*近战攻击*",
+      "Eng": "Melee Attack"
+    }
+  }
+]

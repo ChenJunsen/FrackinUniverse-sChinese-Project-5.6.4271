@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "liquids/liquidaether.liquid": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "奇怪的黑色液体。",
+      "Eng": "Strange black liquid."
+    }
+  }
+]

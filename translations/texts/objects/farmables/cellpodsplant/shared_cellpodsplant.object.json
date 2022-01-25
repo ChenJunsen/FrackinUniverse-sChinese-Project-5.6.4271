@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/cellpodsplant/cellpodsplant.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/cellpodsplant/wildcellpodsplant.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "细胞豆荚种子",
+      "Eng": "Cellpod Seed"
+    }
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/runboost/runboostdebuff10.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "-10%速度",
+      "Eng": "-10% Run"
+    }
+  }
+]

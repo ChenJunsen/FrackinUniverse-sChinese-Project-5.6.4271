@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/labfurniture/labdoorlarge/labdoorlarge.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "实验室气闸舱",
+      "Eng": "Lab Airlock"
+    }
+  }
+]

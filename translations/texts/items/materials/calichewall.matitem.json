@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/calichewall.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "富含碘。",
+      "Eng": "Rich in iodine."
+    }
+  }
+]

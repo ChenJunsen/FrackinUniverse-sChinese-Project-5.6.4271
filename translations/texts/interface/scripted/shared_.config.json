@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/fuweaponupgrade/fuweaponupgradegui.config": [
+        "/gui/btnUpgradeMax/caption"
+      ],
+      "interface/scripted/spaceStation/spaceStation.config": [
+        "/gui/investMax/caption"
+      ]
+    },
+    "Texts": {
+      "Chs": "最大值",
+      "Eng": "Max"
+    }
+  }
+]

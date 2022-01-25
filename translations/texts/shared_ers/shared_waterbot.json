@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/walkers/waterbot/waterbotpet.monstertype": [
+        "/shortdescription"
+      ],
+      "spawners/sentrybotwaterbot/sentrybotwaterbot.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "浇水机器人",
+      "Eng": "Water Bot"
+    }
+  }
+]

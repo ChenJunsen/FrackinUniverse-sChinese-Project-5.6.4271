@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/aquapod/aquapodseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "水荚种子",
+      "Eng": "Aquapod Bud"
+    }
+  }
+]

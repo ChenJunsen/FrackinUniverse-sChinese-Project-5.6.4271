@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/shinyacorn/shinyacornseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/shinyacorn/wildshinyacornseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "赫尔卡特树种子",
+      "Eng": "Helkat Tree"
+    }
+  }
+]

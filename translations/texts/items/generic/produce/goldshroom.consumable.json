@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/goldshroom.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "^yellow;^reset;^#b3b398;发光^reset;: 2m",
+      "Eng": "^yellow;^reset;^#b3b398;Glow^reset;: 2m"
+    }
+  }
+]

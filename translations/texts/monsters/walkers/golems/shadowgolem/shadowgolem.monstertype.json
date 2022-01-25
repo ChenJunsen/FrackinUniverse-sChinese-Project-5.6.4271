@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/walkers/golems/shadowgolem/shadowgolem.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "暗影魔像",
+      "Eng": "Shadow Golem"
+    }
+  }
+]

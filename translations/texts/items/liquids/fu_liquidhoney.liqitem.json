@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/liquids/fu_liquidhoney.liqitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "一定量的蜂蜜，非常非常甜。",
+      "Eng": "A measure of sweet, sweet honey."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/liquids/fu_liquidhoney.liqitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "纯蜂蜜",
+      "Eng": "Pure Honey"
+    }
+  }
+]

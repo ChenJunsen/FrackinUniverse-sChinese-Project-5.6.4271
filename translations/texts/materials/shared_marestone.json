@@ -1,0 +1,32 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/marestonematerial.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/marestone.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "星海石",
+      "Eng": "Marestone"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/marestonematerial.matitem": [
+        "/description"
+      ],
+      "tiles/materials/marestone.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "粗糙、未精制的星海石。",
+      "Eng": "Rough, unrefined marestone."
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/elderstonematerial.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/elderstone.material": [
+        "/shortdescription"
+      ],
+      "tiles/materials/elderstone2.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "远古土块",
+      "Eng": "Elder Soil"
+    }
+  }
+]

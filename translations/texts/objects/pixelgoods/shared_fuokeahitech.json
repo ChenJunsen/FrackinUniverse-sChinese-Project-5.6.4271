@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/pixelgoods/fuokeahitecharmchair.object": [
+        "/shortdescription"
+      ],
+      "objects/pixelgoods/fuokeahitechvrchair.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "高科技扶手椅",
+      "Eng": "Hi-tech Armchair"
+    }
+  }
+]

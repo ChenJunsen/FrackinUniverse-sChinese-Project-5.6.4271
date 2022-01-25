@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/andesite.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "一块粗糙的火山岩。",
+      "Eng": "A rough volcanic rock."
+    }
+  }
+]

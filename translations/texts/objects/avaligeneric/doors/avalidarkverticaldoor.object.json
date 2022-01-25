@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaligeneric/doors/avalidarkverticaldoor.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "羽族黑色垂直舱口",
+      "Eng": "Avali Dark Vertical Hatch"
+    }
+  }
+]

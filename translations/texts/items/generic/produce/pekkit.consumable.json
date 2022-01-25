@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/pekkit.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "^yellow;^reset;^cyan;200%冰霜反伤^reset;: 1m",
+      "Eng": "^yellow;^reset;^cyan;200% Ice Thorns^reset;: 1m"
+    }
+  }
+]

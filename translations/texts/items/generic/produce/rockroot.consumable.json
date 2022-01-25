@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/rockroot.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "^yellow;^reset;^cyan;+7防御^reset;: 2m",
+      "Eng": "^yellow;^reset;^cyan;+7 Defense^reset;: 2m"
+    }
+  }
+]

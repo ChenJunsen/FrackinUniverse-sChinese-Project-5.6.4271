@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/space/masteroidlarge/masteroidlarge.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "分裂者(大型)",
+      "Eng": "Masteroid (Large)"
+    }
+  }
+]

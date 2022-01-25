@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/regeneration/regenerationAtmosRegen.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "治疗力场",
+      "Eng": "Atmospheric Healing"
+    }
+  }
+]

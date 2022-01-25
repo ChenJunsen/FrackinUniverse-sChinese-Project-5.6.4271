@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/gels/isn_accelgel/isn_accelgel_mod.matmod": [
+        "/Description"
+      ]
+    },
+    "Texts": {
+      "Chs": "快速粘贴。",
+      "Eng": "A fast paste."
+    }
+  }
+]

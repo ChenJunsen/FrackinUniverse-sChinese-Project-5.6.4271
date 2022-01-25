@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/rage/rage40.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "狂暴+40%",
+      "Eng": "+40% Rage"
+    }
+  }
+]

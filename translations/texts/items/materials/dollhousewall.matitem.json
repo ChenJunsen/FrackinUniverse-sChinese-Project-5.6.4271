@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/dollhousewall.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "玩具屋华丽墙",
+      "Eng": "Dollhouse Ornate Wall"
+    }
+  }
+]

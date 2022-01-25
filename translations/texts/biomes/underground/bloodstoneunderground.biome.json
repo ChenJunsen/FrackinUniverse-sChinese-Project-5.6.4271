@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/underground/bloodstoneunderground.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Chs": "血石洞穴",
+      "Eng": "Bloodstone caverns"
+    }
+  }
+]

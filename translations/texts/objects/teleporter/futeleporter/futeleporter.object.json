@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/futeleporter/futeleporter.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "曲率传送门",
+      "Eng": "Warp Teleporter"
+    }
+  }
+]

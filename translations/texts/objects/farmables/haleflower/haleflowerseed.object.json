@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/haleflower/haleflowerseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "黑尔花种子",
+      "Eng": "Haleflower Seed"
+    }
+  }
+]

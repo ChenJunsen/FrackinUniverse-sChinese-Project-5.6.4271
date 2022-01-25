@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/space/erchiusasteroid.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Chs": "厄尔吉斯晶体小行星带",
+      "Eng": "erchiusasteroid"
+    }
+  }
+]

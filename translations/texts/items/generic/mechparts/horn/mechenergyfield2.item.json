@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/horn/mechenergyfield2.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "燃料罐 II",
+      "Eng": "Fuel Tank II"
+    }
+  }
+]

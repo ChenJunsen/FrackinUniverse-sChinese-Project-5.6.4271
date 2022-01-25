@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/fulegacyscripts/ground/skills/recoverspecial.monsterskill": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "*恢复*",
+      "Eng": "RECOVER"
+    }
+  }
+]

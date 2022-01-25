@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/protectorate/ironspear.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "一把劣质的铁制长矛。",
+      "Eng": "A shoddy iron spear."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/protectorate/ironspear.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "铁制长矛",
+      "Eng": "Iron Spear"
+    }
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/ginseng/ginsengseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/ginseng/wildginsengseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "心之根茎种子",
+      "Eng": "Heartroot Seed"
+    }
+  }
+]

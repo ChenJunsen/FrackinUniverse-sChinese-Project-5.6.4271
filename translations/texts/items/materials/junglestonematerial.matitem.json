@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/junglestonematerial.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "布满藤蔓的石头",
+      "Eng": "Vine-covered stones."
+    }
+  }
+]

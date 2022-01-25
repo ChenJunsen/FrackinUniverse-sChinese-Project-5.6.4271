@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/loot/waterstim.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "深海药剂",
+      "Eng": "Deepwater Stim"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/loot/waterstim.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "^cyan;究极游泳加速^gray;(^white;持续220s^gray;)^reset;",
+      "Eng": "^cyan;Exceptional Swim Boost ^gray;(^white;220s^gray;)^reset;"
+    }
+  }
+]

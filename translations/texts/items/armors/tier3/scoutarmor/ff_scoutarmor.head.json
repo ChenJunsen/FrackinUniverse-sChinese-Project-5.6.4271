@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/tier3/scoutarmor/ff_scoutarmor.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "斥候头盔",
+      "Eng": "Scout Helm"
+    }
+  }
+]

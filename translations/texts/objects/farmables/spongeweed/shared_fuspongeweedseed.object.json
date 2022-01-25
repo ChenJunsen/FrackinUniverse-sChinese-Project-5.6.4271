@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/spongeweed/fuspongeweedseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/spongeweed/wildfuspongeweedseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "海绵草种子",
+      "Eng": "Spongeweed Clump"
+    }
+  }
+]

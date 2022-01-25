@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/pandorasbox/pandorasboxalienvirus/pandorasboxalienvirus.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "外星病毒",
+      "Eng": "Alien Virus"
+    }
+  }
+]

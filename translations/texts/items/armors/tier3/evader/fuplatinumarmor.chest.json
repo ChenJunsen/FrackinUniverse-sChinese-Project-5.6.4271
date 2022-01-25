@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/tier3/evader/fuplatinumarmor.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "碳制胸甲",
+      "Eng": "Evader Chestpiece"
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/laspistol.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "星际中的一种常见手枪\n^yellow;可靠^reset;\n^tellow;视为能量武器，享受能量加成^reset;",
+      "Eng": "A common sidearm in the galaxy\n^yellow;Reliable^reset;\n^tellow;Counts as 'Energy' for set bonuses^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/laspistol.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "激光手枪",
+      "Eng": "Laser Pistol"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/laspistol.activeitem": [
+        "/upgradeParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "散射激光手枪",
+      "Eng": "Scatterlaser Pistol"
+    }
+  }
+]

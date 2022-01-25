@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/underground_detached/ffsupermatter.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Chs": "能源洞穴",
+      "Eng": "Erichus Cave"
+    }
+  }
+]

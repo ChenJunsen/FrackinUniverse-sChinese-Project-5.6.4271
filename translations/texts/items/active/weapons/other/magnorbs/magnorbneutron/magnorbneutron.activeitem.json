@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/other/magnorbs/magnorbneutron/magnorbneutron.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "中子星珠",
+      "Eng": "Neutron Star Orbs"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/other/magnorbs/magnorbneutron/magnorbneutron.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "超级重力球体。 ^yellow;视为能量武器，享受加成效果^reset;",
+      "Eng": "Superior gravity orbs. ^cyan;Counts as 'energy' weapon^reset;"
+    }
+  }
+]

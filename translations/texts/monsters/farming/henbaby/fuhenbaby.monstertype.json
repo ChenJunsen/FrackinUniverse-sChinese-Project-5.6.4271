@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/farming/henbaby/fuhenbaby.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "小鸡",
+      "Eng": "Baby Hen"
+    }
+  }
+]

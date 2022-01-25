@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/lasherplant/lasherplantseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/lasherplant/wildlasherplantseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "鞭笞者种子",
+      "Eng": "Lasher Seed"
+    }
+  }
+]

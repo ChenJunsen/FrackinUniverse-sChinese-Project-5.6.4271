@@ -1,0 +1,15 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "bees/bees/xenodaemonae_drone.item": [
+        "/description",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "异种工蜂",
+      "Eng": "Xenodaemonae Drone"
+    }
+  }
+]

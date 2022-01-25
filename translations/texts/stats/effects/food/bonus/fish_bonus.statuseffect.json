@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/food/bonus/fish_bonus.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "都是那条鱼惹的祸。",
+      "Eng": "All about that fishy stuff."
+    }
+  }
+]

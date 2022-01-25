@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/hellfireplantseed/hellfireplantseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/hellfireplantseed/wildhellfireplantseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "地狱火藤蔓种子",
+      "Eng": "Hellfire Plant Seed"
+    }
+  }
+]

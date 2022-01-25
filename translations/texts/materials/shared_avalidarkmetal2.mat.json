@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avalidarkmetal2.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/avalidarkmetal2.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "黑暗金属面板",
+      "Eng": "Dark Metal Panels"
+    }
+  }
+]

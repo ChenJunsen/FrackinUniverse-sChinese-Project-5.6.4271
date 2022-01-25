@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/flyers/shadowbat/shadowbat.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "享受着飱血蚀骨的乐趣。也享受着度假。",
+      "Eng": "Enjoys rending flesh and gnawing bone. Also likes vacations."
+    }
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/deprecated/lightregenfloran.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "光合作用",
+      "Eng": "Photosynthesis"
+    }
+  }
+]

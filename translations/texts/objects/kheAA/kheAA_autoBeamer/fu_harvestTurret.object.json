@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/kheAA/kheAA_autoBeamer/fu_harvestTurret.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "收割者炮塔 I",
+      "Eng": "Harvester Turret v1"
+    }
+  }
+]

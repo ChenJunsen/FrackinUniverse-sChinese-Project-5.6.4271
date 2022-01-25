@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/tier3/chitin/chitin.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "甲壳胸甲",
+      "Eng": "Chitin Chest"
+    }
+  }
+]

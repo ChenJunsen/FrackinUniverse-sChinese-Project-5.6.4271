@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/caliche/calichestone.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "这种物质富含硝石。",
+      "Eng": "A rich source of iodine."
+    }
+  }
+]

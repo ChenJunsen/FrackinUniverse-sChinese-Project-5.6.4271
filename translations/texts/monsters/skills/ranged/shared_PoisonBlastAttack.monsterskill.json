@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/skills/ranged/frostPoisonBlastAttack.monsterskill": [
+        "/label"
+      ],
+      "monsters/skills/ranged/slimePoisonBlastAttack.monsterskill": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "*软泥爆发*",
+      "Eng": "BIO ERUPTION"
+    }
+  }
+]

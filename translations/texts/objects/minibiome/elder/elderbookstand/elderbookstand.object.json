@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/minibiome/elder/elderbookstand/elderbookstand.object": [
+        "/interactData/paneLayoutOverride/windowtitle/title",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "上古文本",
+      "Eng": "Antediluvian Texts"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/minibiome/elder/elderbookstand/elderbookstand.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Compel entities beyond understanding to gift you with knowledge."
+    }
+  }
+]

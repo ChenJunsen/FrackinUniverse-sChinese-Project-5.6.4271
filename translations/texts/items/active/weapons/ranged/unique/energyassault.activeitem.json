@@ -1,0 +1,50 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/energyassault.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "F4能量步枪",
+      "Eng": "F4 Energy Rifle"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/energyassault.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "星际市场上最受欢迎的能量步枪之一。\n^yellow;高效率^reset;\n^tellow;视为能量武器，享受加成效果^reset;",
+      "Eng": "One of the most popular energy rifles on the galactic market\n^yellow;High efficiency^reset;\n^tellow;Counts as 'Energy' for set bonuses^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/energyassault.activeitem": [
+        "/upgradeParameters/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "你把它变得更棒。\n^yellow;高效率^reset;",
+      "Eng": "You've gone and made it even better.\n^yellow;High efficiency^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/energyassault.activeitem": [
+        "/upgradeParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "^cyan;G7能量步枪^reset; ^yellow;^reset;",
+      "Eng": "^cyan;G7 Energy Rifle^reset; ^yellow;^reset;"
+    }
+  }
+]

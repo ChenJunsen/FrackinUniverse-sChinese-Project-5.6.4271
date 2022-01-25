@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/tier0/mantizimerch/merch.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "小贩头盔",
+      "Eng": "Hawker's Top"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/tier0/mantizimerch/merch.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "简单，多层纺织制成的精致面料。 +^green;5^reset;% 魅力.",
+      "Eng": "Simple, multi-layered top made of delicate fabrics. Grants +^green;5^reset;% Charisma."
+    }
+  }
+]

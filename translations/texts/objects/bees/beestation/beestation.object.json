@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/bees/beestation/beestation.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "^cyan;蜂场工作台^white;",
+      "Eng": "^cyan;Apiary Crafting Station^reset;"
+    }
+  }
+]

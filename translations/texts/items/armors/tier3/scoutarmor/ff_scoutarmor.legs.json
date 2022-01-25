@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/tier3/scoutarmor/ff_scoutarmor.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "斥候腿甲",
+      "Eng": "Scout Greaves"
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/visors/bmcjumpscoutvisor/bmcjumpscoutvisor.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "侦察员面具(跳跃向)",
+      "Eng": "Jump Scout Visor"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/visors/bmcjumpscoutvisor/bmcjumpscoutvisor.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "这个由黑市改造的侦察护具可以让使用者^green;跳得更高^reset;.。",
+      "Eng": "This modified black market scout visor includes the integrated ability to allow the wearer to ^green;jump higher^reset;."
+    }
+  }
+]

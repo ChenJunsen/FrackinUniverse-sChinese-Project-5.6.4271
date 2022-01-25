@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fualiengrass.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "外星草地",
+      "Eng": "Alien Grasses"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fualiengrass.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "闻起来很奇怪的外星草。",
+      "Eng": "Strangely-scented alien grass."
+    }
+  }
+]

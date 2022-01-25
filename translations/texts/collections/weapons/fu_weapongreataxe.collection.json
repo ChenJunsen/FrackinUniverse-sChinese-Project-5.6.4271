@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/weapons/fu_weapongreataxe.collection": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Chs": "[FU] 以德斧人",
+      "Eng": "[FU] Can I Axe You A Question?"
+    }
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/goldenroot/goldenrootseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/goldenroot/wildgoldenrootseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "黄金根茎种子",
+      "Eng": "Golden Root Seed"
+    }
+  }
+]

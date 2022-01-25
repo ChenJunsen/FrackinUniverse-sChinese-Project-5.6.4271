@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/power/isn_radiostation/configs/isn_seedsvendor.config": [
+        "/paneLayout/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Chs": "Stardew种植公司",
+      "Eng": "  STARDEW ACRES"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/power/isn_radiostation/configs/isn_seedsvendor.config": [
+        "/paneLayout/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Chs": "我们可提供任何植物！",
+      "Eng": "  We'll grow on you!"
+    }
+  }
+]

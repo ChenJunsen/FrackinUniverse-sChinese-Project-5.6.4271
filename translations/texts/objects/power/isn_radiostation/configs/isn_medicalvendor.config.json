@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/power/isn_radiostation/configs/isn_medicalvendor.config": [
+        "/paneLayout/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Chs": "让你永远不会再生病。",
+      "Eng": "  Never be sick again."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/power/isn_radiostation/configs/isn_medicalvendor.config": [
+        "/paneLayout/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Chs": "Panacea医药公司",
+      "Eng": "  PANACEA MEDICINES INC."
+    }
+  }
+]

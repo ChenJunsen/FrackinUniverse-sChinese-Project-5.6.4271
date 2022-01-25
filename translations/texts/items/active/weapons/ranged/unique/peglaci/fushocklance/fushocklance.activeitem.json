@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/peglaci/fushocklance/fushocklance.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "效果绝对让你震惊。\n^yellow;毁灭性的次要攻击^reset;\n^yellow;主要攻击可以造成二次物理伤害",
+      "Eng": "Shockingly deadly. \n^yellow;Destructive Alt-Fire^reset;\n^cyan;Primary fire does secondary physical damage"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/peglaci/fushocklance/fushocklance.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "电击长矛",
+      "Eng": "Shocklance"
+    }
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/critter/mcm/fupterosaur/fupterosaurcritter.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "翼龙",
+      "Eng": "Pterosaur"
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/magnesiumore.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "可提取镁粉！",
+      "Eng": "Great for creating magnesium powder!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/magnesiumore.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "镁",
+      "Eng": "Magnesite"
+    }
+  }
+]

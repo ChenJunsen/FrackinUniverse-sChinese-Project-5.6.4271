@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/vextongue/vextongueseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/vextongue/wildvextongueseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "凸舌蕊种子",
+      "Eng": "Vextongue Seed"
+    }
+  }
+]

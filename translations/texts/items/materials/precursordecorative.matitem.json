@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/precursordecorative.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "先驱符文面板",
+      "Eng": "Precursor Rune Panel"
+    }
+  }
+]

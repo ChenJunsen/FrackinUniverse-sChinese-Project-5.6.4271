@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/goldshroom/goldshroomseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/goldshroom/wildgoldshroomseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "金色蘑菇孢子",
+      "Eng": "Gold Shroom Spore"
+    }
+  }
+]

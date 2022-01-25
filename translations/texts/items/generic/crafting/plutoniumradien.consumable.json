@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/plutoniumradien.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "食用钚",
+      "Eng": "Edible Plutonium"
+    }
+  }
+]

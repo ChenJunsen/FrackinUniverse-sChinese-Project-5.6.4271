@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/protectoratehylotl.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Chs": "你是一个鲛人",
+      "Eng": "You're a Hylotl"
+    }
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/minibiome/elder/dungeondeco/eldercage3.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "这个古老的笼子还算保存完好。",
+      "Eng": "an ancient yet perfectly preserved cage."
+    }
+  }
+]

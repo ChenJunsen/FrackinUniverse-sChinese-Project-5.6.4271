@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/salvage/salvagetier5.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "质子限制器",
+      "Eng": "Proton Limiter"
+    }
+  }
+]

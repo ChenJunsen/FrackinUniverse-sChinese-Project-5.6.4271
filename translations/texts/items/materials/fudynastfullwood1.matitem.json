@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fudynastfullwood1.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "处理过的王朝木材",
+      "Eng": "Dynast Treated Wood"
+    }
+  }
+]

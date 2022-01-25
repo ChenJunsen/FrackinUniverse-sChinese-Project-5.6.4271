@@ -1,0 +1,32 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/genetile.matitem": [
+        "/description"
+      ],
+      "tiles/materials/genetile.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "一个巨大的细胞。",
+      "Eng": "A gigantic cell."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/genetile.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/genetile.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "细胞块",
+      "Eng": "Cell"
+    }
+  }
+]

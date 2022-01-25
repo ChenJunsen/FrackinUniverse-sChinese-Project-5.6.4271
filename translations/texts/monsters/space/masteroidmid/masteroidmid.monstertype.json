@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/space/masteroidmid/masteroidmid.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "分裂者(中型)",
+      "Eng": "Masteroid (Medium)"
+    }
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/elderfloormaterial.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/elderfloor.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "远古地板",
+      "Eng": "Elder Floor"
+    }
+  }
+]

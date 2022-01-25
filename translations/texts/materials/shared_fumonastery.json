@@ -1,0 +1,22 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fumonasterytile.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/fumonasterybeam.material": [
+        "/description",
+        "/shortdescription"
+      ],
+      "tiles/materials/fumonasterytile.material": [
+        "/description",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "木质瓦片",
+      "Eng": "Shoji Tile"
+    }
+  }
+]

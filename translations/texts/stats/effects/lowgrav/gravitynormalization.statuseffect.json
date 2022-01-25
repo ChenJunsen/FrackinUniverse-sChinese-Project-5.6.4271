@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/lowgrav/gravitynormalization.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "重力正常化领域",
+      "Eng": "Gravity Normalizing Field"
+    }
+  }
+]

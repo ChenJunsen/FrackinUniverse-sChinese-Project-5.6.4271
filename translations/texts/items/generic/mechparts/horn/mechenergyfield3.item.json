@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/horn/mechenergyfield3.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "燃料罐 III",
+      "Eng": "Fuel Tank III"
+    }
+  }
+]

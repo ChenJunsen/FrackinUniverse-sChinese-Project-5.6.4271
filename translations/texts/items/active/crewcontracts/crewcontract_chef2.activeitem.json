@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/crewcontracts/crewcontract_chef2.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hires a Line Chef to keep you fed and reduce fuel costs by 4%."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/crewcontracts/crewcontract_chef2.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "合同：高级厨师",
+      "Eng": "Line Chef Contract"
+    }
+  }
+]

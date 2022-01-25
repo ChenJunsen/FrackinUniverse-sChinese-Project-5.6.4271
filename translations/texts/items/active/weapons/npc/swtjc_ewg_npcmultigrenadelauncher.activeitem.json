@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/npc/swtjc_ewg_npcmultigrenadelauncher.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "NPC的榴弹发射器",
+      "Eng": "NPC Multi-Grenade Launcher"
+    }
+  }
+]

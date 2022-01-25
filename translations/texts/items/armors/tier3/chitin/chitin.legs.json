@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/tier3/chitin/chitin.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "甲壳腿甲",
+      "Eng": "Chitin Greaves"
+    }
+  }
+]

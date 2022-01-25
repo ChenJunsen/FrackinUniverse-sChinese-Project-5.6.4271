@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/neuropodseed/neuropodseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/neuropodseed/wildneuropodseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "神经荚种子",
+      "Eng": "Neuropod Seed"
+    }
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/walkers/poptopish/slimetop/slimetop.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "黏液吐舌娃",
+      "Eng": "Slimetop"
+    }
+  }
+]

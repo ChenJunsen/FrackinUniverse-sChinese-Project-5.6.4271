@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/cinnamon/cinnamonseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/cinnamon/wildcinnamonseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "肉桂种子",
+      "Eng": "Cinnamon Seed"
+    }
+  }
+]

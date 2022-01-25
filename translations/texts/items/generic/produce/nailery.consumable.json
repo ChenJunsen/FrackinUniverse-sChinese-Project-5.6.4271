@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/nailery.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "可制成炸弹\n^yellow;^reset;^red;中毒^reset;: 5s",
+      "Eng": "Craft into bombs\n^yellow;^reset;^red;Poisons^reset;: 5s"
+    }
+  }
+]

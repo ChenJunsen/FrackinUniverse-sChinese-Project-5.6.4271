@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface_detached/magicsnowland.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Chs": "魔法雪地",
+      "Eng": "Magic Snow Land"
+    }
+  }
+]

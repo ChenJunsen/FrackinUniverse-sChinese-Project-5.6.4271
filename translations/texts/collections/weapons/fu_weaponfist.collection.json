@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/weapons/fu_weaponfist.collection": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Chs": "[FU] 精武门",
+      "Eng": "[FU] Fists Of Fury"
+    }
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/doorprops/romandoorprop/romandoorprop.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "罗马门",
+      "Eng": "Roman Door Prop"
+    }
+  }
+]

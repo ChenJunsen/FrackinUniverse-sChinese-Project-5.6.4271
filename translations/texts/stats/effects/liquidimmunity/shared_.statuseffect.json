@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/liquidimmunity/gasimmunity.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/liquidimmunity/gasimmunityhidden.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "免疫 - 气体",
+      "Eng": "X-Gas"
+    }
+  }
+]

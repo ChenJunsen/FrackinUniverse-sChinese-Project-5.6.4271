@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/aegisaltcrystal.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/aegisaltcrystal.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "星芒晶块",
+      "Eng": "Stellara Crystal"
+    }
+  }
+]

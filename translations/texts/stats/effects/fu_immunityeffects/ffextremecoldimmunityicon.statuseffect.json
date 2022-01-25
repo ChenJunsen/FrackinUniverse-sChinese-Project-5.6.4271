@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/fu_immunityeffects/ffextremecoldimmunityicon.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "免疫 - 致命严寒",
+      "Eng": "X-Cold Shield"
+    }
+  }
+]

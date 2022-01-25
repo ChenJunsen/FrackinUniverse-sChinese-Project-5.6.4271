@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/frozenstonematerial.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "冰石",
+      "Eng": "Icy Stone"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/frozenstonematerial.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "真的很冷，上面嵌满了冰。",
+      "Eng": "Really cold, ice-encrusted stone."
+    }
+  }
+]

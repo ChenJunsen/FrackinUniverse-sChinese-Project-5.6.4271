@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/salvage/salvagetier4.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "接口芯片",
+      "Eng": "Interface Chip"
+    }
+  }
+]

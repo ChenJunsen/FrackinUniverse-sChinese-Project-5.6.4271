@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/gravitongun.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "引力之枪",
+      "Eng": "Graviton Gun"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/gravitongun.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "可将习以为常的重力化做武器。\n^cyan;强力的击退；减少敌人的防御^reset;\n^yellow;波浪型弹道^reset;",
+      "Eng": "Micro-gravity turned into a weapon\n^yellow;Wave-burst primary^reset;\n^green;Big knockback, Defense Debuff^reset;"
+    }
+  }
+]

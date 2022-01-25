@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/augments/quest/humanartifact.augment": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "伤害x^green;1.1^reset;\n能量x^green;1.2^reset;\n+^green;20^reset;%射线抗性",
+      "Eng": "Damage x^green;1.1^reset;\nEnergy x^green;1.2^reset;\n+^green;20^reset;% Cosmic Resist"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/augments/quest/humanartifact.augment": [
+        "/augment/displayName"
+      ]
+    },
+    "Texts": {
+      "Chs": "始源物质枪",
+      "Eng": "Master Manipulator"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/augments/quest/humanartifact.augment": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "^cyan;损坏的始源物质枪^reset;",
+      "Eng": "^cyan;Broken Master Manipulator^reset;"
+    }
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/tier3/spacefarer/spacefarer.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "宇航员胸甲",
+      "Eng": "Spacefarer Chest"
+    }
+  }
+]

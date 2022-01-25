@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/atomsmasher/atomsmasher.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "原子炮",
+      "Eng": "Atom Smasher"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/atomsmasher/atomsmasher.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "现存最强大的光束炮。\n^yellow;致命率：110%^reset;",
+      "Eng": "The most powerful beam cannon in existence.\n^yellow;11/10 Would Kill Again^reset;"
+    }
+  }
+]

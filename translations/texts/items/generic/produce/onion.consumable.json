@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/onion.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "^yellow;^reset;^Cyan;光照下回复250.2-252.5% HP^reset;: 5m",
+      "Eng": "^yellow;^reset;^Cyan;Heal in Light 250.2-252.5% HP^reset;: 5m"
+    }
+  }
+]

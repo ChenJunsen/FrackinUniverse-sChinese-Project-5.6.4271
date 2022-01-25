@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/futreatedfullwood1.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "处理过的华丽木材",
+      "Eng": "Ornate Treated Wood"
+    }
+  }
+]

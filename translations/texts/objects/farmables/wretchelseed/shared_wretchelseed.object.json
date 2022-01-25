@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/wretchelseed/wildwretchelseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/wretchelseed/wretchelseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "扭力藤种子",
+      "Eng": "Wretchel Seed"
+    }
+  }
+]

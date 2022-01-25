@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fumossyrock.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "一块覆盖着苔藓的石头。",
+      "Eng": "A stone covered in moss."
+    }
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/elderpillar1material.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/elderpillar1.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "远古支架",
+      "Eng": "Elder Support"
+    }
+  }
+]

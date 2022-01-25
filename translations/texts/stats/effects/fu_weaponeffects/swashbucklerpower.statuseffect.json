@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/fu_weaponeffects/swashbucklerpower.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "精准射击",
+      "Eng": "Pistol Accuracy"
+    }
+  }
+]

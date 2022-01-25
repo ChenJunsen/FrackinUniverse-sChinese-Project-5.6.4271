@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/liquids/alienjuice.liqitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "一定量的血原液。",
+      "Eng": "A measure of an unusual plasmic fluid."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/liquids/alienjuice.liqitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "血原液",
+      "Eng": "Plasmic Fluid"
+    }
+  }
+]

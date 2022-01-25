@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/tier4/monsterplating/fumonsterplatedarmor.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "怪物头盔",
+      "Eng": "Monster Plate Helmet"
+    }
+  }
+]

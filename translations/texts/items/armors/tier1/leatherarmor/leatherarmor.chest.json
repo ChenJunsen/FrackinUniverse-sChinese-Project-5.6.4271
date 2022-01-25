@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/tier1/leatherarmor/leatherarmor.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "皮制夹克",
+      "Eng": "Leather Jerkin"
+    }
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/labfurniture/labcomputer/labcomputer.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "实验室监测器",
+      "Eng": "Lab Monitor"
+    }
+  }
+]

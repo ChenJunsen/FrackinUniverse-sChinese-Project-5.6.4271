@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/liquids/ff_mercury.liqitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "水银是唯一一种在标准温度和压力下是液态的金属。警告: 有毒",
+      "Eng": "Mercury is the only metal that is liquid at standard temperatures and pressures. Caution: Toxic"
+    }
+  }
+]

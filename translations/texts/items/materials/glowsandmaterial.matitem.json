@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/glowsandmaterial.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "一种有趣但不寻常的可以发出照明的沙子。\n^blue;+^white;1^blue;燃料^reset;",
+      "Eng": "An interesting and unusual irradiated sand.\n^blue;+^white;1 ^blue;Fuel^reset;"
+    }
+  }
+]

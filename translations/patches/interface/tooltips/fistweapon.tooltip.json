@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/tooltips/fistweapon.tooltip": [
+        "/speedTitleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Chs": "速度：",
+      "Eng": "Speed:"
+    }
+  }
+]

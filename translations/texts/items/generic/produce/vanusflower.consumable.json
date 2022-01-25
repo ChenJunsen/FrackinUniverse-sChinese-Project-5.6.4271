@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/vanusflower.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "^yellow;^reset;^cyan;+3 防御^reset;: 3m",
+      "Eng": "^yellow;^reset;^cyan;+3 Defense^reset;: 3m"
+    }
+  }
+]

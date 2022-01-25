@@ -1,0 +1,18 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/tarstonematerial.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/tarstone.material": [
+        "/description",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "焦油石块",
+      "Eng": "Tarry Stone"
+    }
+  }
+]

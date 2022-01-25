@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/npc/swtjc_ewg_npcrevolver.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "NPC的左轮手枪",
+      "Eng": "NPC High-Caliber Pistol"
+    }
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/flyers/sentryminidrone2/sentryminidrone2.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "防护无人机",
+      "Eng": "Shield Drone"
+    }
+  }
+]

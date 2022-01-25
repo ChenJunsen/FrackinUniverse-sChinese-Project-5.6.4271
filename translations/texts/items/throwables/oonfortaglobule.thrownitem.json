@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/throwables/oonfortaglobule.thrownitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "奥弗塔球",
+      "Eng": "Oonforta Globule"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/throwables/oonfortaglobule.thrownitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "可以丢出去照亮道路。",
+      "Eng": "Use this to light up your path."
+    }
+  }
+]

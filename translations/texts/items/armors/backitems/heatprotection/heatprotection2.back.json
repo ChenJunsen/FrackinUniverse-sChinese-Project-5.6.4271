@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/backitems/heatprotection/heatprotection2.back": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "+40%火炎抗性。对探索^red;中毒炎热^reset;行星有助。+25秒氧气，且呼吸速率减半。",
+      "Eng": "+40% Fire Resist. Helpful on ^red;moderate to severe heat^reset; planets. +25s oxygen and halves how quickly you breathe."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/backitems/heatprotection/heatprotection2.back": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "降暑EPP II",
+      "Eng": "Cooling EPP II"
+    }
+  }
+]

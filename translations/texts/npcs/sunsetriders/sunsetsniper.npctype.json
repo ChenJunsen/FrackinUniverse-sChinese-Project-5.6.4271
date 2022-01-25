@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/sunsetriders/sunsetsniper.npctype": [
+        "/scriptConfig/dialog/attack/default/default/7"
+      ]
+    },
+    "Texts": {
+      "Chs": "呀呀呀呀呼！",
+      "Eng": "Yeeeeeeehaw!"
+    }
+  }
+]

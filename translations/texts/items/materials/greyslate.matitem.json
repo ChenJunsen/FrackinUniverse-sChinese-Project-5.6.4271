@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/greyslate.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "灰色板岩石",
+      "Eng": "Gray Slate Stone"
+    }
+  }
+]

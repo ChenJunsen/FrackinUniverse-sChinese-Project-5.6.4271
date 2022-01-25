@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/flyers/pteropodish/pyropod/pyropod.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "烟尘豆荚",
+      "Eng": "Pyropod"
+    }
+  }
+]

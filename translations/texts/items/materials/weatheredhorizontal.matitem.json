@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/weatheredhorizontal.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "风化的水平板",
+      "Eng": "Weathered Hor. Planks"
+    }
+  }
+]

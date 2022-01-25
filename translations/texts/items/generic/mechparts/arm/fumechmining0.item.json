@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/arm/fumechmining0.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "挖掘机甲臂 I",
+      "Eng": "Mining Cannon"
+    }
+  }
+]

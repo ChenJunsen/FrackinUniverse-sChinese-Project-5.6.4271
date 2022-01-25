@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/melodistar.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "^yellow;^reset;^cyan;+17 HP^reset;, ^cyan;+40 EP^reset;: 2m",
+      "Eng": "^yellow;^reset;^cyan;+17 HP^reset;, ^cyan;+40 EP^reset;: 2m"
+    }
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/passive/nightfear.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "黑夜恐惧",
+      "Eng": "Night Fear"
+    }
+  }
+]

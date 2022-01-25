@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/liquids/shadowgasliquid.liqitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "一定量的暗影气体，暗物质的一种表现形式。",
+      "Eng": "A measure of chaotic matter, converted to gaseous form."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/liquids/shadowgasliquid.liqitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "暗影气体",
+      "Eng": "Shadow Gas"
+    }
+  }
+]

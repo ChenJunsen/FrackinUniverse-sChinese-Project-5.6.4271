@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/garpberry.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "^yellow;^reset;^cyan;+10%辐射抗性 & 免疫^reset;: 辐射烧伤: 2m",
+      "Eng": "^yellow;^reset;^cyan;+10% Radiation Res & Immunity^reset;: Rad Burn: 2m"
+    }
+  }
+]

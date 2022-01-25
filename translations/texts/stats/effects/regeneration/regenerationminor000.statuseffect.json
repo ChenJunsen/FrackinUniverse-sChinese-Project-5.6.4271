@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/regeneration/regenerationminor000.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "略微生命恢复",
+      "Eng": "Minimal Regen"
+    }
+  }
+]

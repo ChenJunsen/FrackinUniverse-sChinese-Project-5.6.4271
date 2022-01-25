@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/guam.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "拉德草",
+      "Eng": "Rad-Leaf"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/guam.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "^yellow;^reset;^cyan;免疫^reset;: 致命辐射: 3m",
+      "Eng": "^yellow;^reset;^cyan;Immunity^reset;: Deadly Radiation: 3m"
+    }
+  }
+]

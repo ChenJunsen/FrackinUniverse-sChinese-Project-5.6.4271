@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/diodiahybrid/diodiahybridseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/diodiahybrid/wilddiodiahybridseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "杂交钮扣果种子",
+      "Eng": "Diodia Hybrid Seed"
+    }
+  }
+]

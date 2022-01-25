@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/honeyextractor/speedhoneyjar.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A contraband jar of honey.\n^cyan;+^white;25% ^cyan;Run ^gray;(^white;3m^gray;)^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/honeyextractor/speedhoneyjar.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "罐装急速蜂蜜",
+      "Eng": "Speed Honey Jar"
+    }
+  }
+]
